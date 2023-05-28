@@ -1,0 +1,2 @@
+Use pc/tools to convert to PNG. Use pnmcrop -white to remove missing
+characters.  
