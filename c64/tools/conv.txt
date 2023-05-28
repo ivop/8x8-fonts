@@ -1,0 +1,6 @@
+Convert to RAW  
+
+for i in *.64C ; do j=`basename "$i" .64C`.RAW; dd if="$i" of="$j" bs=1 skip=2; done  
+
+Use pc/tools to convert to PNG. Use pnmcrop -white to remove missing
+characters.  
