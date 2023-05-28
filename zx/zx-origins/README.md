@@ -1,5 +1,7 @@
 https://damieng.com/typography/zx-origins/  
 
+When used in your game or application, credit damieng!  
+
 ALTERE-1.CH8   
 ![ ALTERE-1.CH8 ]( images/ALTERE-1.PNG )  
 
