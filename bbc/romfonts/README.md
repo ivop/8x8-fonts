@@ -31,9 +31,6 @@ Master
 merp  
 ![merp](images/merp.png)  
   
-README.md  
-![README.md](images/README.md.png)  
-  
 RUNES  
 ![RUNES](images/RUNES.png)  
   

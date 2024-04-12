@@ -151,9 +151,6 @@ Outline
 PCchars  
 ![PCchars](images/PCchars.png)  
   
-README.md  
-![README.md](images/README.md.png)  
-  
 Serif  
 ![Serif](images/Serif.png)  
   
