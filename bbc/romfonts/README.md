@@ -25,9 +25,6 @@ Hiragana5
 IBM  
 ![IBM](images/IBM.png)  
   
-images  
-![images](images/images.png)  
-  
 Master  
 ![Master](images/Master.png)  
   

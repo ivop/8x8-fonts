@@ -100,9 +100,6 @@ HugoChars
 IBMFont  
 ![IBMFont](images/IBMFont.png)  
   
-images  
-![images](images/images.png)  
-  
 Italic1  
 ![Italic1](images/Italic1.png)  
   
@@ -186,9 +183,6 @@ TMSRItalic
   
 TMSRLight  
 ![TMSRLight](images/TMSRLight.png)  
-  
-tools  
-![tools](images/tools.png)  
   
 TrekFont  
 ![TrekFont](images/TrekFont.png)  
