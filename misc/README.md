@@ -1,4 +1,6 @@
 
 Hazeltine 1421 Terminal  
-![ ACORN.FNT ]( hazeltine_1421/hazeltine_1421.png )
+![]( hazeltine_1421/hazeltine_1421.png )
 
+ADM-3A Terminal  
+![]( adm-3a/adm3a.png )
