@@ -19,6 +19,12 @@ microstyle.bin
 montesegur.bin  
 ![]( images/montesegur.png )
 
+normal-oric.bin  
+![]( images/normal-oric.png )
+
+normal-8d.bin  
+![]( images/normal-8d.png )
+
 sample.bin  
 ![]( images/sample.png )
 
