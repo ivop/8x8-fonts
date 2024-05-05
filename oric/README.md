@@ -1,33 +1,33 @@
 bold.bin  
-![]( bold.png )
+![] images/bold.png )
 
 cargrec.bin  
-![]( cargrec.png )
+![] images/cargrec.png )
 
 charset.bin  
-![]( charset.png )
+![] images/charset.png )
 
 dungeon.bin  
-![]( dungeon.png )
+![] images/dungeon.png )
 
 helvetipixel.bin  
-![]( helvetipixel.png )
+![] images/helvetipixel.png )
 
 microstyle.bin  
-![]( microstyle.png )
+![] images/microstyle.png )
 
 montesegur.bin  
-![]( montesegur.png )
+![] images/montesegur.png )
 
 sample.bin  
-![]( sample.png )
+![] images/sample.png )
 
 star.bin  
-![]( star.png )
+![] images/star.png )
 
 test.bin  
-![]( test.png )
+![] images/test.png )
 
 tyrant.bin  
-![]( tyrant.png )
+![] images/tyrant.png )
 
