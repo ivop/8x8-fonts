@@ -1,6 +1,7 @@
 #### This is a collection of 8x8 fonts.
 
 * a8 - Atari 400/800 XL/XE series. 128 characters.
+* apple - Apple fonts. 64 or 128 characters.
 * bbc - BBC Micro fonts. 96, 128 or 256 characters.
 * c64 - Commodore 64 fonts. 64, 128 or 256 characters.
 * misc - Miscellaneous fonts from old terminals.
