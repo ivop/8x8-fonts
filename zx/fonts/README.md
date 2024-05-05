@@ -1,9 +1,15 @@
 
+80colPS.ch8  
+![ 80colPS.ch8 ]( images/80colPS.png )
+
 Adventura32.ch8  
 ![ Adventura32.ch8 ]( images/Adventura32.png )
 
 Alien32.ch8  
 ![ Alien32.ch8 ]( images/Alien32.png )
+
+Alt40.ch8  
+![ Alt40.ch8 ]( images/Alt40.png )
 
 Amstrad32.ch8  
 ![ Amstrad32.ch8 ]( images/Amstrad32.png )
@@ -41,8 +47,14 @@ CBM32.ch8
 Chunky32.ch8  
 ![ Chunky32.ch8 ]( images/Chunky32.png )
 
+Compact40.ch8  
+![ Compact40.ch8 ]( images/Compact40.png )
+
 Crusoe32.ch8  
 ![ Crusoe32.ch8 ]( images/Crusoe32.png )
+
+DutchPS.ch8  
+![ DutchPS.ch8 ]( images/DutchPS.png )
 
 Esmeralda32.ch8  
 ![ Esmeralda32.ch8 ]( images/Esmeralda32.png )
@@ -71,11 +83,20 @@ IBM32.ch8
 Inferno32.ch8  
 ![ Inferno32.ch8 ]( images/Inferno32.png )
 
+ItalicPS.ch8  
+![ ItalicPS.ch8 ]( images/ItalicPS.png )
+
 Kombat32.ch8  
 ![ Kombat32.ch8 ]( images/Kombat32.png )
 
+MinimalPS.ch8  
+![ MinimalPS.ch8 ]( images/MinimalPS.png )
+
 Miniset32.ch8  
 ![ Miniset32.ch8 ]( images/Miniset32.png )
+
+Monaco40.ch8  
+![ Monaco40.ch8 ]( images/Monaco40.png )
 
 NES-Elite32.ch8  
 ![ NES-Elite32.ch8 ]( images/NES-Elite32.png )
@@ -88,6 +109,15 @@ Oric32.ch8
 
 Perfect64-32.ch8  
 ![ Perfect64-32.ch8 ]( images/Perfect64-32.png )
+
+Prefect64.ch8  
+![ Prefect64.ch8 ]( images/Prefect64.png )
+
+PrefectPS.ch8  
+![ PrefectPS.ch8 ]( images/PrefectPS.png )
+
+RathbonePS.ch8  
+![ RathbonePS.ch8 ]( images/RathbonePS.png )
 
 Russian32.ch8  
 ![ Russian32.ch8 ]( images/Russian32.png )
@@ -104,6 +134,9 @@ Skeleton32.ch8
 SmallCaps32.ch8  
 ![ SmallCaps32.ch8 ]( images/SmallCaps32.png )
 
+SwissPS.ch8  
+![ SwissPS.ch8 ]( images/SwissPS.png )
+
 Trader32.ch8  
 ![ Trader32.ch8 ]( images/Trader32.png )
 
@@ -112,3 +145,6 @@ Trnang32.ch8
 
 Zaibatsu32.ch8  
 ![ Zaibatsu32.ch8 ]( images/Zaibatsu32.png )
+
+ZaibatsuPS.ch8  
+![ ZaibatsuPS.ch8 ]( images/ZaibatsuPS.png )
