@@ -7,4 +7,4 @@
 * misc - Miscellaneous fonts from old terminals.
 * oric - Oric fonts. 96 or 128 characters.
 * pc - IBM PC and compatibles CGA/MGA/EGA/VGA ROM fonts (only 8x8). 256 characters.
-* zx - ZX Spectrum ROM fonts and zx-origins. 64 or 96 characters.
+* zx - ZX Spectrum ROM fonts, zx-origins, and other fonts. 64 or 96 characters.
