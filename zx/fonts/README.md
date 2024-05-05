@@ -47,6 +47,12 @@ CBM32.ch8
 Chunky32.ch8  
 ![ Chunky32.ch8 ]( images/Chunky32.png )
 
+Clairsys-B.ch8  
+![ Clairsys-B.ch8 ]( images/Clairsys-B.png )
+
+Clairsys.ch8  
+![ Clairsys.ch8 ]( images/Clairsys.png )
+
 Compact40.ch8  
 ![ Compact40.ch8 ]( images/Compact40.png )
 
@@ -82,6 +88,45 @@ IBM32.ch8
 
 Inferno32.ch8  
 ![ Inferno32.ch8 ]( images/Inferno32.png )
+
+INVD-A.ch8  
+![ INVD-A.ch8 ]( images/INVD-A.png )
+
+INVD-B.ch8  
+![ INVD-B.ch8 ]( images/INVD-B.png )
+
+INVD-C.ch8  
+![ INVD-C.ch8 ]( images/INVD-C.png )
+
+INVD-D.ch8  
+![ INVD-D.ch8 ]( images/INVD-D.png )
+
+INVD-E.ch8  
+![ INVD-E.ch8 ]( images/INVD-E.png )
+
+INVD-F.ch8  
+![ INVD-F.ch8 ]( images/INVD-F.png )
+
+INVD-G.ch8  
+![ INVD-G.ch8 ]( images/INVD-G.png )
+
+INVD-H.ch8  
+![ INVD-H.ch8 ]( images/INVD-H.png )
+
+INVD-I.ch8  
+![ INVD-I.ch8 ]( images/INVD-I.png )
+
+INVD-J.ch8  
+![ INVD-J.ch8 ]( images/INVD-J.png )
+
+INVD-K.ch8  
+![ INVD-K.ch8 ]( images/INVD-K.png )
+
+INVD-L.ch8  
+![ INVD-L.ch8 ]( images/INVD-L.png )
+
+INVD-M.ch8  
+![ INVD-M.ch8 ]( images/INVD-M.png )
 
 ItalicPS.ch8  
 ![ ItalicPS.ch8 ]( images/ItalicPS.png )
