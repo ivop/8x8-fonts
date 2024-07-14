@@ -10,7 +10,7 @@ mv ATI_8x8-8.raw ATI_8X-1.RAW
 mv ATI_SmallW_6x8-8.raw ATI_SM-1.RAW
 mv CompaqThin_8x8-8.raw COMPAQ-1.RAW
 mv Copam_BIOS-8.raw COPAM_-1.RAW
-mv DG_One-8.raw DG_ONE-8.raw
+mv DG_One-8.raw DG_ONE-8.RAW
 mv DTK_BIOS-8.raw DTK_BI-1.RAW
 mv EagleSpCGA_Alt1-8.raw EAGLES-1.RAW
 mv EagleSpCGA_Alt2-8.raw EAGLES-2.RAW
