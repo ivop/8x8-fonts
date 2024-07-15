@@ -1,6 +1,7 @@
 Sources:  
 .raw files converted from https://int10h.org/oldschool-pc-fonts/ back to RAW.  
 .bin files from https://github.com/spacerace/romfont  
+See md5sums.txt to see which ones are identical.  
 
 3dfx8x8.bin  
 ![]( images/3dfx8x8.png )  
