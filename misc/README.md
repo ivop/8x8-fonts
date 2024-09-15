@@ -5,6 +5,9 @@ Hazeltine 1421 Terminal (8x11 on an 8x16 grid)
 Hazeltine 1500 Terminal (8x11 on an 8x16 grid)  
 ![]( hazeltine_1500/hazeltine_1500.png )
 
+Hazeltine 1552 Terminal (8x11 on an 8x16 grid)  
+![]( hazeltine_1552/hazeltine_1552.png )
+
 ADM-3A Terminal (5x7 on an 8x8 grid)  
 ![]( adm-3a/adm3a.png )
 
