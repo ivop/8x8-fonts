@@ -22,3 +22,6 @@ Ohio Scentific Instruments, Type 1 font 8x8
 
 Ohio Scentific Instruments, Type 2 font 8x8  
 ![]( osi/type2.png )
+
+AIM-65 Thermal Printer Font, 5x7, 6-bit ASCII, rotated in memory  
+![]( aim65/font-5x7.png )
