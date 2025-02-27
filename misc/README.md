@@ -28,3 +28,6 @@ AIM-65 Thermal Printer Font, 5x7, 6-bit ASCII, rotated in memory
 
 DEC VT-52  
 ![]( vt52/vt52.png )
+
+DEC VT-100    
+![]( vt100/vt100.png )
