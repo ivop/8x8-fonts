@@ -58,6 +58,15 @@ msx-rus.raw
 msx1_br.raw  
 ![ msx1_br.raw ]( images/msx1_br.png )  
 
+msx2_eur.raw  
+![ msx2_eur.raw ]( images/msx2_eur.png )  
+
+msx2_jap.raw  
+![ msx2_jap.raw ]( images/msx2_jap.png )  
+
+msx2_rus.raw  
+![ msx2_rus.raw ]( images/msx2_rus.png )  
+
 win-1252.raw  
 ![ win-1252.raw ]( images/win-1252.png )  
 
