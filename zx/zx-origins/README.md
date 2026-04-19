@@ -1,1198 +1,1200 @@
-https://damieng.com/typography/zx-origins/  
+Altered_Chrome.ch8  
+![ Altered_Chrome.ch8 ]( images/Altered_Chrome.png )  
 
-When used in your game or application, credit damieng!  
+Altered_Chrome_Bold.ch8  
+![ Altered_Chrome_Bold.ch8 ]( images/Altered_Chrome_Bold.png )  
 
-ALTERE-1.CH8   
-![ ALTERE-1.CH8 ]( images/ALTERE-1.PNG )  
+Altered_Chrome_Script.ch8  
+![ Altered_Chrome_Script.ch8 ]( images/Altered_Chrome_Script.png )  
 
-ALTERE-2.CH8   
-![ ALTERE-2.CH8 ]( images/ALTERE-2.PNG )  
+Altered_Chrome_SemiBold.ch8  
+![ Altered_Chrome_SemiBold.ch8 ]( images/Altered_Chrome_SemiBold.png )  
 
-ALTERE-3.CH8   
-![ ALTERE-3.CH8 ]( images/ALTERE-3.PNG )  
+Anarchist-Heavy.ch8  
+![ Anarchist-Heavy.ch8 ]( images/Anarchist-Heavy.png )  
 
-ALTERE-4.CH8   
-![ ALTERE-4.CH8 ]( images/ALTERE-4.PNG )  
+Anarchist.ch8  
+![ Anarchist.ch8 ]( images/Anarchist.png )  
 
-ANARCH-1.CH8   
-![ ANARCH-1.CH8 ]( images/ANARCH-1.PNG )  
+Anarchist_Heavy.ch8  
+![ Anarchist_Heavy.ch8 ]( images/Anarchist_Heavy.png )  
 
-ANARCH-2.CH8   
-![ ANARCH-2.CH8 ]( images/ANARCH-2.PNG )  
+Anarchist_Short.ch8  
+![ Anarchist_Short.ch8 ]( images/Anarchist_Short.png )  
 
-ANARCH-3.CH8   
-![ ANARCH-3.CH8 ]( images/ANARCH-3.PNG )  
+Anchovy.ch8  
+![ Anchovy.ch8 ]( images/Anchovy.png )  
 
-ANARCH-4.CH8   
-![ ANARCH-4.CH8 ]( images/ANARCH-4.PNG )  
+Anvil.ch8  
+![ Anvil.ch8 ]( images/Anvil.png )  
 
-ANCHOVY.CH8   
-![ ANCHOVY.CH8 ]( images/ANCHOVY.PNG )  
+Anvil_Alternate.ch8  
+![ Anvil_Alternate.ch8 ]( images/Anvil_Alternate.png )  
 
-ANVIL_-1.CH8   
-![ ANVIL_-1.CH8 ]( images/ANVIL_-1.PNG )  
+Area51.ch8  
+![ Area51.ch8 ]( images/Area51.png )  
 
-ANVIL.CH8   
-![ ANVIL.CH8 ]( images/ANVIL.PNG )  
+Area51_Overwide.ch8  
+![ Area51_Overwide.ch8 ]( images/Area51_Overwide.png )  
 
-AREA51-1.CH8   
-![ AREA51-1.CH8 ]( images/AREA51-1.PNG )  
+Area51_Serif.ch8  
+![ Area51_Serif.ch8 ]( images/Area51_Serif.png )  
 
-AREA51-2.CH8   
-![ AREA51-2.CH8 ]( images/AREA51-2.PNG )  
+Area51_Serif_Bold.ch8  
+![ Area51_Serif_Bold.ch8 ]( images/Area51_Serif_Bold.png )  
 
-AREA51-3.CH8   
-![ AREA51-3.CH8 ]( images/AREA51-3.PNG )  
+Around.ch8  
+![ Around.ch8 ]( images/Around.png )  
 
-AREA51.CH8   
-![ AREA51.CH8 ]( images/AREA51.PNG )  
+Atlas.ch8  
+![ Atlas.ch8 ]( images/Atlas.png )  
 
-AROUND.CH8   
-![ AROUND.CH8 ]( images/AROUND.PNG )  
+Authorized.ch8  
+![ Authorized.ch8 ]( images/Authorized.png )  
 
-ATLAS.CH8   
-![ ATLAS.CH8 ]( images/ATLAS.PNG )  
+Authorized_Edge.ch8  
+![ Authorized_Edge.ch8 ]( images/Authorized_Edge.png )  
 
-AUTHOR-1.CH8   
-![ AUTHOR-1.CH8 ]( images/AUTHOR-1.PNG )  
+Babyteeth.ch8  
+![ Babyteeth.ch8 ]( images/Babyteeth.png )  
 
-AUTHOR-2.CH8   
-![ AUTHOR-2.CH8 ]( images/AUTHOR-2.PNG )  
+Bamboo.ch8  
+![ Bamboo.ch8 ]( images/Bamboo.png )  
 
-BABYTE-1.CH8   
-![ BABYTE-1.CH8 ]( images/BABYTE-1.PNG )  
+Bauhaus.ch8  
+![ Bauhaus.ch8 ]( images/Bauhaus.png )  
 
-BAMBOO.CH8   
-![ BAMBOO.CH8 ]( images/BAMBOO.PNG )  
+Beachball.ch8  
+![ Beachball.ch8 ]( images/Beachball.png )  
 
-BAUHAUS.CH8   
-![ BAUHAUS.CH8 ]( images/BAUHAUS.PNG )  
+Beachball_Short.ch8  
+![ Beachball_Short.ch8 ]( images/Beachball_Short.png )  
 
-BEACHB-1.CH8   
-![ BEACHB-1.CH8 ]( images/BEACHB-1.PNG )  
+Beastly.ch8  
+![ Beastly.ch8 ]( images/Beastly.png )  
 
-BEACHB-2.CH8   
-![ BEACHB-2.CH8 ]( images/BEACHB-2.PNG )  
+Binnacle.ch8  
+![ Binnacle.ch8 ]( images/Binnacle.png )  
 
-BEASTLY.CH8   
-![ BEASTLY.CH8 ]( images/BEASTLY.PNG )  
+Binnacle_Bold.ch8  
+![ Binnacle_Bold.ch8 ]( images/Binnacle_Bold.png )  
 
-BINNAC-1.CH8   
-![ BINNAC-1.CH8 ]( images/BINNAC-1.PNG )  
+Binnacle_Oblique.ch8  
+![ Binnacle_Oblique.ch8 ]( images/Binnacle_Oblique.png )  
 
-BINNAC-2.CH8   
-![ BINNAC-2.CH8 ]( images/BINNAC-2.PNG )  
+Blood_Rain.ch8  
+![ Blood_Rain.ch8 ]( images/Blood_Rain.png )  
 
-BINNACLE.CH8   
-![ BINNACLE.CH8 ]( images/BINNACLE.PNG )  
+Broadwary.ch8  
+![ Broadwary.ch8 ]( images/Broadwary.png )  
 
-BLOOD_-1.CH8   
-![ BLOOD_-1.CH8 ]( images/BLOOD_-1.PNG )  
+Bubblegum.ch8  
+![ Bubblegum.ch8 ]( images/Bubblegum.png )  
 
-BROADW-1.CH8   
-![ BROADW-1.CH8 ]( images/BROADW-1.PNG )  
+Bubblegum_Round.ch8  
+![ Bubblegum_Round.ch8 ]( images/Bubblegum_Round.png )  
 
-BUBBLE-1.CH8   
-![ BUBBLE-1.CH8 ]( images/BUBBLE-1.PNG )  
+Byteletter.ch8  
+![ Byteletter.ch8 ]( images/Byteletter.png )  
 
-BUBBLE-2.CH8   
-![ BUBBLE-2.CH8 ]( images/BUBBLE-2.PNG )  
+Cabaret-Pro5.ch8  
+![ Cabaret-Pro5.ch8 ]( images/Cabaret-Pro5.png )  
 
-BYTELE-1.CH8   
-![ BYTELE-1.CH8 ]( images/BYTELE-1.PNG )  
+Cabaret.ch8  
+![ Cabaret.ch8 ]( images/Cabaret.png )  
 
-CABARE-1.CH8   
-![ CABARE-1.CH8 ]( images/CABARE-1.PNG )  
+Cabaret_Bold.ch8  
+![ Cabaret_Bold.ch8 ]( images/Cabaret_Bold.png )  
 
-CABARE-2.CH8   
-![ CABARE-2.CH8 ]( images/CABARE-2.PNG )  
+Cabaret_Semi_Bold.ch8  
+![ Cabaret_Semi_Bold.ch8 ]( images/Cabaret_Semi_Bold.png )  
 
-CABARE-3.CH8   
-![ CABARE-3.CH8 ]( images/CABARE-3.PNG )  
+Cage.ch8  
+![ Cage.ch8 ]( images/Cage.png )  
 
-CABARET.CH8   
-![ CABARET.CH8 ]( images/CABARET.PNG )  
+Cage_Bold.ch8  
+![ Cage_Bold.ch8 ]( images/Cage_Bold.png )  
 
-CAGE_B-1.CH8   
-![ CAGE_B-1.CH8 ]( images/CAGE_B-1.PNG )  
+Calstone.ch8  
+![ Calstone.ch8 ]( images/Calstone.png )  
 
-CAGE.CH8   
-![ CAGE.CH8 ]( images/CAGE.PNG )  
+Calstone_Heavy.ch8  
+![ Calstone_Heavy.ch8 ]( images/Calstone_Heavy.png )  
 
-CALSTO-1.CH8   
-![ CALSTO-1.CH8 ]( images/CALSTO-1.PNG )  
+Caprica.ch8  
+![ Caprica.ch8 ]( images/Caprica.png )  
 
-CALSTONE.CH8   
-![ CALSTONE.CH8 ]( images/CALSTONE.PNG )  
+Carton.ch8  
+![ Carton.ch8 ]( images/Carton.png )  
 
-CAPRICA.CH8   
-![ CAPRICA.CH8 ]( images/CAPRICA.PNG )  
+Carton_Bold.ch8  
+![ Carton_Bold.ch8 ]( images/Carton_Bold.png )  
 
-CARTON-1.CH8   
-![ CARTON-1.CH8 ]( images/CARTON-1.PNG )  
+Carton_Tall_Caps.ch8  
+![ Carton_Tall_Caps.ch8 ]( images/Carton_Tall_Caps.png )  
 
-CARTON-2.CH8   
-![ CARTON-2.CH8 ]( images/CARTON-2.PNG )  
+Chest_Burster.ch8  
+![ Chest_Burster.ch8 ]( images/Chest_Burster.png )  
 
-CARTON.CH8   
-![ CARTON.CH8 ]( images/CARTON.PNG )  
+Chest_Burster_Bold.ch8  
+![ Chest_Burster_Bold.ch8 ]( images/Chest_Burster_Bold.png )  
 
-CHEST_-1.CH8   
-![ CHEST_-1.CH8 ]( images/CHEST_-1.PNG )  
+Chit.ch8  
+![ Chit.ch8 ]( images/Chit.png )  
 
-CHEST_-2.CH8   
-![ CHEST_-2.CH8 ]( images/CHEST_-2.PNG )  
+Chit_Bold.ch8  
+![ Chit_Bold.ch8 ]( images/Chit_Bold.png )  
 
-CHIT_B-1.CH8   
-![ CHIT_B-1.CH8 ]( images/CHIT_B-1.PNG )  
+Chunky_Monkey.ch8  
+![ Chunky_Monkey.ch8 ]( images/Chunky_Monkey.png )  
 
-CHIT.CH8   
-![ CHIT.CH8 ]( images/CHIT.PNG )  
+Cinema.ch8  
+![ Cinema.ch8 ]( images/Cinema.png )  
 
-CHUNKY-1.CH8   
-![ CHUNKY-1.CH8 ]( images/CHUNKY-1.PNG )  
+Cinema_Bold.ch8  
+![ Cinema_Bold.ch8 ]( images/Cinema_Bold.png )  
 
-CINEMA-1.CH8   
-![ CINEMA-1.CH8 ]( images/CINEMA-1.PNG )  
+Cinema_Condensed.ch8  
+![ Cinema_Condensed.ch8 ]( images/Cinema_Condensed.png )  
 
-CINEMA-2.CH8   
-![ CINEMA-2.CH8 ]( images/CINEMA-2.PNG )  
+Clipper.ch8  
+![ Clipper.ch8 ]( images/Clipper.png )  
 
-CINEMA.CH8   
-![ CINEMA.CH8 ]( images/CINEMA.PNG )  
+Comic_Fans.ch8  
+![ Comic_Fans.ch8 ]( images/Comic_Fans.png )  
 
-CLIPPER.CH8   
-![ CLIPPER.CH8 ]( images/CLIPPER.PNG )  
+Compression.ch8  
+![ Compression.ch8 ]( images/Compression.png )  
 
-COMIC_-1.CH8   
-![ COMIC_-1.CH8 ]( images/COMIC_-1.PNG )  
+Compression_Short.ch8  
+![ Compression_Short.ch8 ]( images/Compression_Short.png )  
 
-COMPRE-1.CH8   
-![ COMPRE-1.CH8 ]( images/COMPRE-1.PNG )  
+Compression_Square.ch8  
+![ Compression_Square.ch8 ]( images/Compression_Square.png )  
 
-COMPRE-2.CH8   
-![ COMPRE-2.CH8 ]( images/COMPRE-2.PNG )  
+Compression_Square_Short.ch8  
+![ Compression_Square_Short.ch8 ]( images/Compression_Square_Short.png )  
 
-COMPRE-3.CH8   
-![ COMPRE-3.CH8 ]( images/COMPRE-3.PNG )  
+Compression_Square_Tall.ch8  
+![ Compression_Square_Tall.ch8 ]( images/Compression_Square_Tall.png )  
 
-COMPRE-4.CH8   
-![ COMPRE-4.CH8 ]( images/COMPRE-4.PNG )  
+Compression_Square_Tall_Alt.ch8  
+![ Compression_Square_Tall_Alt.ch8 ]( images/Compression_Square_Tall_Alt.png )  
 
-COMPRE-5.CH8   
-![ COMPRE-5.CH8 ]( images/COMPRE-5.PNG )  
+Compression_Tall.ch8  
+![ Compression_Tall.ch8 ]( images/Compression_Tall.png )  
 
-COMPRE-6.CH8   
-![ COMPRE-6.CH8 ]( images/COMPRE-6.PNG )  
+Computer.ch8  
+![ Computer.ch8 ]( images/Computer.png )  
 
-COMPRE-7.CH8   
-![ COMPRE-7.CH8 ]( images/COMPRE-7.PNG )  
+Computing_60s.ch8  
+![ Computing_60s.ch8 ]( images/Computing_60s.png )  
 
-COMPUT-1.CH8   
-![ COMPUT-1.CH8 ]( images/COMPUT-1.PNG )  
+Computing_60s_Bold.ch8  
+![ Computing_60s_Bold.ch8 ]( images/Computing_60s_Bold.png )  
 
-COMPUT-2.CH8   
-![ COMPUT-2.CH8 ]( images/COMPUT-2.PNG )  
+Computing_60s_Oblique.ch8  
+![ Computing_60s_Oblique.ch8 ]( images/Computing_60s_Oblique.png )  
 
-COMPUT-3.CH8   
-![ COMPUT-3.CH8 ]( images/COMPUT-3.PNG )  
+Conapt-Pro5.ch8  
+![ Conapt-Pro5.ch8 ]( images/Conapt-Pro5.png )  
 
-COMPUTER.CH8   
-![ COMPUTER.CH8 ]( images/COMPUTER.PNG )  
+Conapt.ch8  
+![ Conapt.ch8 ]( images/Conapt.png )  
 
-CONAPT-1.CH8   
-![ CONAPT-1.CH8 ]( images/CONAPT-1.PNG )  
+Conapt_Bold.ch8  
+![ Conapt_Bold.ch8 ]( images/Conapt_Bold.png )  
 
-CONAPT-2.CH8   
-![ CONAPT-2.CH8 ]( images/CONAPT-2.PNG )  
+Conapt_Semi.ch8  
+![ Conapt_Semi.ch8 ]( images/Conapt_Semi.png )  
 
-CONAPT-3.CH8   
-![ CONAPT-3.CH8 ]( images/CONAPT-3.PNG )  
+Conveyance.ch8  
+![ Conveyance.ch8 ]( images/Conveyance.png )  
 
-CONAPT.CH8   
-![ CONAPT.CH8 ]( images/CONAPT.PNG )  
+Coolant.ch8  
+![ Coolant.ch8 ]( images/Coolant.png )  
 
-CONVEY-1.CH8   
-![ CONVEY-1.CH8 ]( images/CONVEY-1.PNG )  
+Crews.ch8  
+![ Crews.ch8 ]( images/Crews.png )  
 
-COOLANT.CH8   
-![ COOLANT.CH8 ]( images/COOLANT.PNG )  
+Cushion.ch8  
+![ Cushion.ch8 ]( images/Cushion.png )  
 
-CREWS.CH8   
-![ CREWS.CH8 ]( images/CREWS.PNG )  
+Cushion_Light.ch8  
+![ Cushion_Light.ch8 ]( images/Cushion_Light.png )  
 
-CUSHIO-1.CH8   
-![ CUSHIO-1.CH8 ]( images/CUSHIO-1.PNG )  
+Cushion_Narrow.ch8  
+![ Cushion_Narrow.ch8 ]( images/Cushion_Narrow.png )  
 
-CUSHIO-2.CH8   
-![ CUSHIO-2.CH8 ]( images/CUSHIO-2.PNG )  
+Cyberwire.ch8  
+![ Cyberwire.ch8 ]( images/Cyberwire.png )  
 
-CUSHION.CH8   
-![ CUSHION.CH8 ]( images/CUSHION.PNG )  
+Daddy_Cool.ch8  
+![ Daddy_Cool.ch8 ]( images/Daddy_Cool.png )  
 
-CYBERW-1.CH8   
-![ CYBERW-1.CH8 ]( images/CYBERW-1.PNG )  
+Datel_Replay.ch8  
+![ Datel_Replay.ch8 ]( images/Datel_Replay.png )  
 
-DADDY_-1.CH8   
-![ DADDY_-1.CH8 ]( images/DADDY_-1.PNG )  
+Datel_Tribute.ch8  
+![ Datel_Tribute.ch8 ]( images/Datel_Tribute.png )  
 
-DATEL_-1.CH8   
-![ DATEL_-1.CH8 ]( images/DATEL_-1.PNG )  
+Datel_Tron.ch8  
+![ Datel_Tron.ch8 ]( images/Datel_Tron.png )  
 
-DATEL_-2.CH8   
-![ DATEL_-2.CH8 ]( images/DATEL_-2.PNG )  
+Dead_Forest.ch8  
+![ Dead_Forest.ch8 ]( images/Dead_Forest.png )  
 
-DATEL_-3.CH8   
-![ DATEL_-3.CH8 ]( images/DATEL_-3.PNG )  
+Deaf_Metal.ch8  
+![ Deaf_Metal.ch8 ]( images/Deaf_Metal.png )  
 
-DEAD_F-1.CH8   
-![ DEAD_F-1.CH8 ]( images/DEAD_F-1.PNG )  
+Deaf_Metal_2020.ch8  
+![ Deaf_Metal_2020.ch8 ]( images/Deaf_Metal_2020.png )  
 
-DEAF_M-1.CH8   
-![ DEAF_M-1.CH8 ]( images/DEAF_M-1.PNG )  
+Deaf_Metal_2020_Square.ch8  
+![ Deaf_Metal_2020_Square.ch8 ]( images/Deaf_Metal_2020_Square.png )  
 
-DEAF_M-2.CH8   
-![ DEAF_M-2.CH8 ]( images/DEAF_M-2.PNG )  
+Dean.ch8  
+![ Dean.ch8 ]( images/Dean.png )  
 
-DEAF_M-3.CH8   
-![ DEAF_M-3.CH8 ]( images/DEAF_M-3.PNG )  
+Decor.ch8  
+![ Decor.ch8 ]( images/Decor.png )  
 
-DEAN.CH8   
-![ DEAN.CH8 ]( images/DEAN.PNG )  
+Diamond.ch8  
+![ Diamond.ch8 ]( images/Diamond.png )  
 
-DECOR.CH8   
-![ DECOR.CH8 ]( images/DECOR.PNG )  
+District.ch8  
+![ District.ch8 ]( images/District.png )  
 
-DIAMOND.CH8   
-![ DIAMOND.CH8 ]( images/DIAMOND.PNG )  
+District_Bold.ch8  
+![ District_Bold.ch8 ]( images/District_Bold.png )  
 
-DISTR-10.CH8   
-![ DISTR-10.CH8 ]( images/DISTR-10.PNG )  
+District_Comic.ch8  
+![ District_Comic.ch8 ]( images/District_Comic.png )  
 
-DISTR-11.CH8   
-![ DISTR-11.CH8 ]( images/DISTR-11.PNG )  
+District_Digital.ch8  
+![ District_Digital.ch8 ]( images/District_Digital.png )  
 
-DISTRI-1.CH8   
-![ DISTRI-1.CH8 ]( images/DISTRI-1.PNG )  
+District_Digital_Bold.ch8  
+![ District_Digital_Bold.ch8 ]( images/District_Digital_Bold.png )  
 
-DISTRI-2.CH8   
-![ DISTRI-2.CH8 ]( images/DISTRI-2.PNG )  
+District_Digital_Compressed.ch8  
+![ District_Digital_Compressed.ch8 ]( images/District_Digital_Compressed.png )  
 
-DISTRI-3.CH8   
-![ DISTRI-3.CH8 ]( images/DISTRI-3.PNG )  
+District_Digital_Outline.ch8  
+![ District_Digital_Outline.ch8 ]( images/District_Digital_Outline.png )  
 
-DISTRI-4.CH8   
-![ DISTRI-4.CH8 ]( images/DISTRI-4.PNG )  
+District_Digital_Outline_Bold.ch8  
+![ District_Digital_Outline_Bold.ch8 ]( images/District_Digital_Outline_Bold.png )  
 
-DISTRI-5.CH8   
-![ DISTRI-5.CH8 ]( images/DISTRI-5.PNG )  
+District_Outline.ch8  
+![ District_Outline.ch8 ]( images/District_Outline.png )  
 
-DISTRI-6.CH8   
-![ DISTRI-6.CH8 ]( images/DISTRI-6.PNG )  
+District_Outline_Bold.ch8  
+![ District_Outline_Bold.ch8 ]( images/District_Outline_Bold.png )  
 
-DISTRI-7.CH8   
-![ DISTRI-7.CH8 ]( images/DISTRI-7.PNG )  
+District_Shadow.ch8  
+![ District_Shadow.ch8 ]( images/District_Shadow.png )  
 
-DISTRI-8.CH8   
-![ DISTRI-8.CH8 ]( images/DISTRI-8.PNG )  
+District_Shadow_Bold.ch8  
+![ District_Shadow_Bold.ch8 ]( images/District_Shadow_Bold.png )  
 
-DISTRI-9.CH8   
-![ DISTRI-9.CH8 ]( images/DISTRI-9.PNG )  
+Dunny_On_The_Wold.ch8  
+![ Dunny_On_The_Wold.ch8 ]( images/Dunny_On_The_Wold.png )  
 
-DISTRICT.CH8   
-![ DISTRICT.CH8 ]( images/DISTRICT.PNG )  
+Eclipse.ch8  
+![ Eclipse.ch8 ]( images/Eclipse.png )  
 
-DUNNY_-1.CH8   
-![ DUNNY_-1.CH8 ]( images/DUNNY_-1.PNG )  
+Egyptian_Mercy.ch8  
+![ Egyptian_Mercy.ch8 ]( images/Egyptian_Mercy.png )  
 
-ECLIPSE.CH8   
-![ ECLIPSE.CH8 ]( images/ECLIPSE.PNG )  
+Egyptian_Mercy_Bold.ch8  
+![ Egyptian_Mercy_Bold.ch8 ]( images/Egyptian_Mercy_Bold.png )  
 
-EGYPTI-1.CH8   
-![ EGYPTI-1.CH8 ]( images/EGYPTI-1.PNG )  
+Electromagnetic.ch8  
+![ Electromagnetic.ch8 ]( images/Electromagnetic.png )  
 
-EGYPTI-2.CH8   
-![ EGYPTI-2.CH8 ]( images/EGYPTI-2.PNG )  
+Emmaline.ch8  
+![ Emmaline.ch8 ]( images/Emmaline.png )  
 
-ELECTR-1.CH8   
-![ ELECTR-1.CH8 ]( images/ELECTR-1.PNG )  
+Emmaline_Bold.ch8  
+![ Emmaline_Bold.ch8 ]( images/Emmaline_Bold.png )  
 
-EMMALI-1.CH8   
-![ EMMALI-1.CH8 ]( images/EMMALI-1.PNG )  
+Emmaline_Heavy.ch8  
+![ Emmaline_Heavy.ch8 ]( images/Emmaline_Heavy.png )  
 
-EMMALI-3.CH8   
-![ EMMALI-3.CH8 ]( images/EMMALI-3.PNG )  
+Emmaline_Open.ch8  
+![ Emmaline_Open.ch8 ]( images/Emmaline_Open.png )  
 
-EMMALI-4.CH8   
-![ EMMALI-4.CH8 ]( images/EMMALI-4.PNG )  
+Envious.ch8  
+![ Envious.ch8 ]( images/Envious.png )  
 
-EMMALINE.CH8   
-![ EMMALINE.CH8 ]( images/EMMALINE.PNG )  
+Envious_Bold.ch8  
+![ Envious_Bold.ch8 ]( images/Envious_Bold.png )  
 
-ENVIOU-1.CH8   
-![ ENVIOU-1.CH8 ]( images/ENVIOU-1.PNG )  
+Envious_Italic.ch8  
+![ Envious_Italic.ch8 ]( images/Envious_Italic.png )  
 
-ENVIOU-2.CH8   
-![ ENVIOU-2.CH8 ]( images/ENVIOU-2.PNG )  
+Envious_Serif.ch8  
+![ Envious_Serif.ch8 ]( images/Envious_Serif.png )  
 
-ENVIOU-3.CH8   
-![ ENVIOU-3.CH8 ]( images/ENVIOU-3.PNG )  
+Envious_Serif_Bold.ch8  
+![ Envious_Serif_Bold.ch8 ]( images/Envious_Serif_Bold.png )  
 
-ENVIOU-4.CH8   
-![ ENVIOU-4.CH8 ]( images/ENVIOU-4.PNG )  
+Everest.ch8  
+![ Everest.ch8 ]( images/Everest.png )  
 
-ENVIOUS.CH8   
-![ ENVIOUS.CH8 ]( images/ENVIOUS.PNG )  
+Everest_Bold.ch8  
+![ Everest_Bold.ch8 ]( images/Everest_Bold.png )  
 
-EVERES-1.CH8   
-![ EVERES-1.CH8 ]( images/EVERES-1.PNG )  
+Everest_Condensed.ch8  
+![ Everest_Condensed.ch8 ]( images/Everest_Condensed.png )  
 
-EVERES-2.CH8   
-![ EVERES-2.CH8 ]( images/EVERES-2.PNG )  
+Everest_Condensed_SemiBold.ch8  
+![ Everest_Condensed_SemiBold.ch8 ]( images/Everest_Condensed_SemiBold.png )  
 
-EVERES-3.CH8   
-![ EVERES-3.CH8 ]( images/EVERES-3.PNG )  
+Experiment88.ch8  
+![ Experiment88.ch8 ]( images/Experiment88.png )  
 
-EVEREST.CH8   
-![ EVEREST.CH8 ]( images/EVEREST.PNG )  
+Factor.ch8  
+![ Factor.ch8 ]( images/Factor.png )  
 
-EXPERI-1.CH8   
-![ EXPERI-1.CH8 ]( images/EXPERI-1.PNG )  
+Fatality.ch8  
+![ Fatality.ch8 ]( images/Fatality.png )  
 
-FACTOR.CH8   
-![ FACTOR.CH8 ]( images/FACTOR.PNG )  
+Firebird.ch8  
+![ Firebird.ch8 ]( images/Firebird.png )  
 
-FATALITY.CH8   
-![ FATALITY.CH8 ]( images/FATALITY.PNG )  
+First_Pass.ch8  
+![ First_Pass.ch8 ]( images/First_Pass.png )  
 
-FIREBIRD.CH8   
-![ FIREBIRD.CH8 ]( images/FIREBIRD.PNG )  
+Flamboyant.ch8  
+![ Flamboyant.ch8 ]( images/Flamboyant.png )  
 
-FIRST_-1.CH8   
-![ FIRST_-1.CH8 ]( images/FIRST_-1.PNG )  
+Flick.ch8  
+![ Flick.ch8 ]( images/Flick.png )  
 
-FLAMBO-1.CH8   
-![ FLAMBO-1.CH8 ]( images/FLAMBO-1.PNG )  
+Florin.ch8  
+![ Florin.ch8 ]( images/Florin.png )  
 
-FLICK.CH8   
-![ FLICK.CH8 ]( images/FLICK.PNG )  
+Forgotten.ch8  
+![ Forgotten.ch8 ]( images/Forgotten.png )  
 
-FLORIN.CH8   
-![ FLORIN.CH8 ]( images/FLORIN.PNG )  
+Forgotten_Bold.ch8  
+![ Forgotten_Bold.ch8 ]( images/Forgotten_Bold.png )  
 
-FORGOT-1.CH8   
-![ FORGOT-1.CH8 ]( images/FORGOT-1.PNG )  
+Forgotten_Heavy_Hand.ch8  
+![ Forgotten_Heavy_Hand.ch8 ]( images/Forgotten_Heavy_Hand.png )  
 
-FORGOT-2.CH8   
-![ FORGOT-2.CH8 ]( images/FORGOT-2.PNG )  
+Founded.ch8  
+![ Founded.ch8 ]( images/Founded.png )  
 
-FORGOT-3.CH8   
-![ FORGOT-3.CH8 ]( images/FORGOT-3.PNG )  
+Founded_Clean.ch8  
+![ Founded_Clean.ch8 ]( images/Founded_Clean.png )  
 
-FOUNDE-1.CH8   
-![ FOUNDE-1.CH8 ]( images/FOUNDE-1.PNG )  
+Founded_Deco.ch8  
+![ Founded_Deco.ch8 ]( images/Founded_Deco.png )  
 
-FOUNDE-2.CH8   
-![ FOUNDE-2.CH8 ]( images/FOUNDE-2.PNG )  
+Founded_Deco_Open.ch8  
+![ Founded_Deco_Open.ch8 ]( images/Founded_Deco_Open.png )  
 
-FOUNDE-3.CH8   
-![ FOUNDE-3.CH8 ]( images/FOUNDE-3.PNG )  
+Fountain.ch8  
+![ Fountain.ch8 ]( images/Fountain.png )  
 
-FOUNDED.CH8   
-![ FOUNDED.CH8 ]( images/FOUNDED.PNG )  
+Fountain_Joined.ch8  
+![ Fountain_Joined.ch8 ]( images/Fountain_Joined.png )  
 
-FOUNTA-1.CH8   
-![ FOUNTA-1.CH8 ]( images/FOUNTA-1.PNG )  
+Franopix.ch8  
+![ Franopix.ch8 ]( images/Franopix.png )  
 
-FOUNTAIN.CH8   
-![ FOUNTAIN.CH8 ]( images/FOUNTAIN.PNG )  
+Franopix_Bold.ch8  
+![ Franopix_Bold.ch8 ]( images/Franopix_Bold.png )  
 
-FRANOP-1.CH8   
-![ FRANOP-1.CH8 ]( images/FRANOP-1.PNG )  
+Franopix_Heavy.ch8  
+![ Franopix_Heavy.ch8 ]( images/Franopix_Heavy.png )  
 
-FRANOP-2.CH8   
-![ FRANOP-2.CH8 ]( images/FRANOP-2.PNG )  
+Fusion_Drive.ch8  
+![ Fusion_Drive.ch8 ]( images/Fusion_Drive.png )  
 
-FRANOPIX.CH8   
-![ FRANOPIX.CH8 ]( images/FRANOPIX.PNG )  
+Fusion_Drive_Bold.ch8  
+![ Fusion_Drive_Bold.ch8 ]( images/Fusion_Drive_Bold.png )  
 
-FUSION-1.CH8   
-![ FUSION-1.CH8 ]( images/FUSION-1.PNG )  
+Gattars_Fork.ch8  
+![ Gattars_Fork.ch8 ]( images/Gattars_Fork.png )  
 
-FUSION-2.CH8   
-![ FUSION-2.CH8 ]( images/FUSION-2.PNG )  
+Gattars_Fork_Script.ch8  
+![ Gattars_Fork_Script.ch8 ]( images/Gattars_Fork_Script.png )  
 
-GATTAR-1.CH8   
-![ GATTAR-1.CH8 ]( images/GATTAR-1.PNG )  
+Gemini.ch8  
+![ Gemini.ch8 ]( images/Gemini.png )  
 
-GATTAR-2.CH8   
-![ GATTAR-2.CH8 ]( images/GATTAR-2.PNG )  
+Gemini_Radar.ch8  
+![ Gemini_Radar.ch8 ]( images/Gemini_Radar.png )  
 
-GEMINI-1.CH8   
-![ GEMINI-1.CH8 ]( images/GEMINI-1.PNG )  
+Gemma.ch8  
+![ Gemma.ch8 ]( images/Gemma.png )  
 
-GEMINI.CH8   
-![ GEMINI.CH8 ]( images/GEMINI.PNG )  
+Gemma_Short_Lower.ch8  
+![ Gemma_Short_Lower.ch8 ]( images/Gemma_Short_Lower.png )  
 
-GEMMA_-1.CH8   
-![ GEMMA_-1.CH8 ]( images/GEMMA_-1.PNG )  
+Golden_Air.ch8  
+![ Golden_Air.ch8 ]( images/Golden_Air.png )  
 
-GEMMA.CH8   
-![ GEMMA.CH8 ]( images/GEMMA.PNG )  
+Golden_Air_Bold.ch8  
+![ Golden_Air_Bold.ch8 ]( images/Golden_Air_Bold.png )  
 
-GOLDEN-1.CH8   
-![ GOLDEN-1.CH8 ]( images/GOLDEN-1.PNG )  
+Golden_Air_Rangers.ch8  
+![ Golden_Air_Rangers.ch8 ]( images/Golden_Air_Rangers.png )  
 
-GOLDEN-2.CH8   
-![ GOLDEN-2.CH8 ]( images/GOLDEN-2.PNG )  
+Golden_Air_SemiBold.ch8  
+![ Golden_Air_SemiBold.ch8 ]( images/Golden_Air_SemiBold.png )  
 
-GOLDEN-3.CH8   
-![ GOLDEN-3.CH8 ]( images/GOLDEN-3.PNG )  
+Halfling.ch8  
+![ Halfling.ch8 ]( images/Halfling.png )  
 
-GOLDEN-4.CH8   
-![ GOLDEN-4.CH8 ]( images/GOLDEN-4.PNG )  
+Halfling_Bold.ch8  
+![ Halfling_Bold.ch8 ]( images/Halfling_Bold.png )  
 
-HALFLI-1.CH8   
-![ HALFLI-1.CH8 ]( images/HALFLI-1.PNG )  
+High_Noon.ch8  
+![ High_Noon.ch8 ]( images/High_Noon.png )  
 
-HALFLING.CH8   
-![ HALFLING.CH8 ]( images/HALFLING.PNG )  
+High_Noon_Bold.ch8  
+![ High_Noon_Bold.ch8 ]( images/High_Noon_Bold.png )  
 
-HIGH_N-1.CH8   
-![ HIGH_N-1.CH8 ]( images/HIGH_N-1.PNG )  
+Homestead.ch8  
+![ Homestead.ch8 ]( images/Homestead.png )  
 
-HIGH_N-2.CH8   
-![ HIGH_N-2.CH8 ]( images/HIGH_N-2.PNG )  
+Hourglass.ch8  
+![ Hourglass.ch8 ]( images/Hourglass.png )  
 
-HOMEST-1.CH8   
-![ HOMEST-1.CH8 ]( images/HOMEST-1.PNG )  
+Hourglass_Bold.ch8  
+![ Hourglass_Bold.ch8 ]( images/Hourglass_Bold.png )  
 
-HOURGL-1.CH8   
-![ HOURGL-1.CH8 ]( images/HOURGL-1.PNG )  
+Ident.ch8  
+![ Ident.ch8 ]( images/Ident.png )  
 
-HOURGL-2.CH8   
-![ HOURGL-2.CH8 ]( images/HOURGL-2.PNG )  
+Ink_Stamp.ch8  
+![ Ink_Stamp.ch8 ]( images/Ink_Stamp.png )  
 
-IDENT.CH8   
-![ IDENT.CH8 ]( images/IDENT.PNG )  
+Inkscript.ch8  
+![ Inkscript.ch8 ]( images/Inkscript.png )  
 
-INKSCR-1.CH8   
-![ INKSCR-1.CH8 ]( images/INKSCR-1.PNG )  
+Inkscript_Bold.ch8  
+![ Inkscript_Bold.ch8 ]( images/Inkscript_Bold.png )  
 
-INKSCR-2.CH8   
-![ INKSCR-2.CH8 ]( images/INKSCR-2.PNG )  
+Insigbyte.ch8  
+![ Insigbyte.ch8 ]( images/Insigbyte.png )  
 
-INK_ST-1.CH8   
-![ INK_ST-1.CH8 ]( images/INK_ST-1.PNG )  
+Insigbyte_Bold.ch8  
+![ Insigbyte_Bold.ch8 ]( images/Insigbyte_Bold.png )  
 
-INSIGB-1.CH8   
-![ INSIGB-1.CH8 ]( images/INSIGB-1.PNG )  
+Invasion.ch8  
+![ Invasion.ch8 ]( images/Invasion.png )  
 
-INSIGB-2.CH8   
-![ INSIGB-2.CH8 ]( images/INSIGB-2.PNG )  
+Invasion_Bold.ch8  
+![ Invasion_Bold.ch8 ]( images/Invasion_Bold.png )  
 
-INVASI-1.CH8   
-![ INVASI-1.CH8 ]( images/INVASI-1.PNG )  
+Invitation_Sans.ch8  
+![ Invitation_Sans.ch8 ]( images/Invitation_Sans.png )  
 
-INVASION.CH8   
-![ INVASION.CH8 ]( images/INVASION.PNG )  
+Invitation_Serif.ch8  
+![ Invitation_Serif.ch8 ]( images/Invitation_Serif.png )  
 
-INVITA-1.CH8   
-![ INVITA-1.CH8 ]( images/INVITA-1.PNG )  
+Invitation_Serif_Bold.ch8  
+![ Invitation_Serif_Bold.ch8 ]( images/Invitation_Serif_Bold.png )  
 
-INVITA-2.CH8   
-![ INVITA-2.CH8 ]( images/INVITA-2.PNG )  
+Ion_Drive.ch8  
+![ Ion_Drive.ch8 ]( images/Ion_Drive.png )  
 
-INVITA-3.CH8   
-![ INVITA-3.CH8 ]( images/INVITA-3.PNG )  
+Isofell.ch8  
+![ Isofell.ch8 ]( images/Isofell.png )  
 
-ION_DR-1.CH8   
-![ ION_DR-1.CH8 ]( images/ION_DR-1.PNG )  
+Jam.ch8  
+![ Jam.ch8 ]( images/Jam.png )  
 
-ISOFELL.CH8   
-![ ISOFELL.CH8 ]( images/ISOFELL.PNG )  
+Jam_Heavy.ch8  
+![ Jam_Heavy.ch8 ]( images/Jam_Heavy.png )  
 
-JAM.CH8   
-![ JAM.CH8 ]( images/JAM.PNG )  
+Joshua.ch8  
+![ Joshua.ch8 ]( images/Joshua.png )  
 
-JAM_HE-1.CH8   
-![ JAM_HE-1.CH8 ]( images/JAM_HE-1.PNG )  
+Journey.ch8  
+![ Journey.ch8 ]( images/Journey.png )  
 
-JOSHUA.CH8   
-![ JOSHUA.CH8 ]( images/JOSHUA.PNG )  
+Kalopsia.ch8  
+![ Kalopsia.ch8 ]( images/Kalopsia.png )  
 
-JOURNEY.CH8   
-![ JOURNEY.CH8 ]( images/JOURNEY.PNG )  
+Keytop.ch8  
+![ Keytop.ch8 ]( images/Keytop.png )  
 
-KALOPSIA.CH8   
-![ KALOPSIA.CH8 ]( images/KALOPSIA.PNG )  
+Kindness.ch8  
+![ Kindness.ch8 ]( images/Kindness.png )  
 
-KEYTOP.CH8   
-![ KEYTOP.CH8 ]( images/KEYTOP.PNG )  
+Kindness_Bold.ch8  
+![ Kindness_Bold.ch8 ]( images/Kindness_Bold.png )  
 
-KINDNE-1.CH8   
-![ KINDNE-1.CH8 ]( images/KINDNE-1.PNG )  
+Koncrete.ch8  
+![ Koncrete.ch8 ]( images/Koncrete.png )  
 
-KINDNESS.CH8   
-![ KINDNESS.CH8 ]( images/KINDNESS.PNG )  
+Labyrinth.ch8  
+![ Labyrinth.ch8 ]( images/Labyrinth.png )  
 
-KONCRETE.CH8   
-![ KONCRETE.CH8 ]( images/KONCRETE.PNG )  
+Lander.ch8  
+![ Lander.ch8 ]( images/Lander.png )  
 
-LABYRI-1.CH8   
-![ LABYRI-1.CH8 ]( images/LABYRI-1.PNG )  
+Lander_Bold.ch8  
+![ Lander_Bold.ch8 ]( images/Lander_Bold.png )  
 
-LANDER-1.CH8   
-![ LANDER-1.CH8 ]( images/LANDER-1.PNG )  
+Lapse.ch8  
+![ Lapse.ch8 ]( images/Lapse.png )  
 
-LANDER.CH8   
-![ LANDER.CH8 ]( images/LANDER.PNG )  
+Lapse_Bold.ch8  
+![ Lapse_Bold.ch8 ]( images/Lapse_Bold.png )  
 
-LAPSE_-1.CH8   
-![ LAPSE_-1.CH8 ]( images/LAPSE_-1.PNG )  
+Lapse_Condensed.ch8  
+![ Lapse_Condensed.ch8 ]( images/Lapse_Condensed.png )  
 
-LAPSE_-2.CH8   
-![ LAPSE_-2.CH8 ]( images/LAPSE_-2.PNG )  
+Lapse_Condensed_Semi_Bold.ch8  
+![ Lapse_Condensed_Semi_Bold.ch8 ]( images/Lapse_Condensed_Semi_Bold.png )  
 
-LAPSE_-3.CH8   
-![ LAPSE_-3.CH8 ]( images/LAPSE_-3.PNG )  
+Lapse_Narrow.ch8  
+![ Lapse_Narrow.ch8 ]( images/Lapse_Narrow.png )  
 
-LAPSE_-4.CH8   
-![ LAPSE_-4.CH8 ]( images/LAPSE_-4.PNG )  
+Localhost.ch8  
+![ Localhost.ch8 ]( images/Localhost.png )  
 
-LAPSE.CH8   
-![ LAPSE.CH8 ]( images/LAPSE.PNG )  
+Localhost_Bold.ch8  
+![ Localhost_Bold.ch8 ]( images/Localhost_Bold.png )  
 
-LOCALH-1.CH8   
-![ LOCALH-1.CH8 ]( images/LOCALH-1.PNG )  
+Mach4.ch8  
+![ Mach4.ch8 ]( images/Mach4.png )  
 
-LOCALH-2.CH8   
-![ LOCALH-2.CH8 ]( images/LOCALH-2.PNG )  
+Mach4_Wide.ch8  
+![ Mach4_Wide.ch8 ]( images/Mach4_Wide.png )  
 
-MACH4_-1.CH8   
-![ MACH4_-1.CH8 ]( images/MACH4_-1.PNG )  
+Magic5.ch8  
+![ Magic5.ch8 ]( images/Magic5.png )  
 
-MACH4.CH8   
-![ MACH4.CH8 ]( images/MACH4.PNG )  
+Magic5_Bold.ch8  
+![ Magic5_Bold.ch8 ]( images/Magic5_Bold.png )  
 
-MAGIC5-1.CH8   
-![ MAGIC5-1.CH8 ]( images/MAGIC5-1.PNG )  
+Magnetic.ch8  
+![ Magnetic.ch8 ]( images/Magnetic.png )  
 
-MAGIC5.CH8   
-![ MAGIC5.CH8 ]( images/MAGIC5.PNG )  
+Marais.ch8  
+![ Marais.ch8 ]( images/Marais.png )  
 
-MAGNETIC.CH8   
-![ MAGNETIC.CH8 ]( images/MAGNETIC.PNG )  
+Mild_West.ch8  
+![ Mild_West.ch8 ]( images/Mild_West.png )  
 
-MARAIS.CH8   
-![ MARAIS.CH8 ]( images/MARAIS.PNG )  
+Mutual.ch8  
+![ Mutual.ch8 ]( images/Mutual.png )  
 
-MILD_W-1.CH8   
-![ MILD_W-1.CH8 ]( images/MILD_W-1.PNG )  
+Needlecast.ch8  
+![ Needlecast.ch8 ]( images/Needlecast.png )  
 
-MUTUAL.CH8   
-![ MUTUAL.CH8 ]( images/MUTUAL.PNG )  
+Needlecast_Bold.ch8  
+![ Needlecast_Bold.ch8 ]( images/Needlecast_Bold.png )  
 
-NEEDLE-1.CH8   
-![ NEEDLE-1.CH8 ]( images/NEEDLE-1.PNG )  
+Needlecast_Heavy.ch8  
+![ Needlecast_Heavy.ch8 ]( images/Needlecast_Heavy.png )  
 
-NEEDLE-2.CH8   
-![ NEEDLE-2.CH8 ]( images/NEEDLE-2.PNG )  
+Neoflow.ch8  
+![ Neoflow.ch8 ]( images/Neoflow.png )  
 
-NEEDLE-3.CH8   
-![ NEEDLE-3.CH8 ]( images/NEEDLE-3.PNG )  
+Nibbles.ch8  
+![ Nibbles.ch8 ]( images/Nibbles.png )  
 
-NEOFLOW.CH8   
-![ NEOFLOW.CH8 ]( images/NEOFLOW.PNG )  
+Nibbles_Bold.ch8  
+![ Nibbles_Bold.ch8 ]( images/Nibbles_Bold.png )  
 
-NIBBLE-1.CH8   
-![ NIBBLE-1.CH8 ]( images/NIBBLE-1.PNG )  
+Nicety.ch8  
+![ Nicety.ch8 ]( images/Nicety.png )  
 
-NIBBLES.CH8   
-![ NIBBLES.CH8 ]( images/NIBBLES.PNG )  
+Nicety_Bold.ch8  
+![ Nicety_Bold.ch8 ]( images/Nicety_Bold.png )  
 
-NICETY-1.CH8   
-![ NICETY-1.CH8 ]( images/NICETY-1.PNG )  
+Nicety_Semi_Bold.ch8  
+![ Nicety_Semi_Bold.ch8 ]( images/Nicety_Semi_Bold.png )  
 
-NICETY-2.CH8   
-![ NICETY-2.CH8 ]( images/NICETY-2.PNG )  
+No_Step.C64.ch8  
+![ No_Step.C64.ch8 ]( images/No_Step.C64.png )  
 
-NICETY.CH8   
-![ NICETY.CH8 ]( images/NICETY.PNG )  
+No_Step.ch8  
+![ No_Step.ch8 ]( images/No_Step.png )  
 
-NO_STE-1.CH8   
-![ NO_STE-1.CH8 ]( images/NO_STE-1.PNG )  
+No_Step_Lower.ch8  
+![ No_Step_Lower.ch8 ]( images/No_Step_Lower.png )  
 
-NO_STE-2.CH8   
-![ NO_STE-2.CH8 ]( images/NO_STE-2.PNG )  
+Noted.ch8  
+![ Noted.ch8 ]( images/Noted.png )  
 
-NO_STEP.CH8   
-![ NO_STEP.CH8 ]( images/NO_STEP.PNG )  
+Orbiter.ch8  
+![ Orbiter.ch8 ]( images/Orbiter.png )  
 
-NOTED.CH8   
-![ NOTED.CH8 ]( images/NOTED.PNG )  
+Orbiter_Bold.ch8  
+![ Orbiter_Bold.ch8 ]( images/Orbiter_Bold.png )  
 
-ORBITE-1.CH8   
-![ ORBITE-1.CH8 ]( images/ORBITE-1.PNG )  
+Outer.ch8  
+![ Outer.ch8 ]( images/Outer.png )  
 
-ORBITER.CH8   
-![ ORBITER.CH8 ]( images/ORBITER.PNG )  
+Outer_Serif.ch8  
+![ Outer_Serif.ch8 ]( images/Outer_Serif.png )  
 
-OUTER_-1.CH8   
-![ OUTER_-1.CH8 ]( images/OUTER_-1.PNG )  
+Outrunner_Inline.ch8  
+![ Outrunner_Inline.ch8 ]( images/Outrunner_Inline.png )  
 
-OUTER.CH8   
-![ OUTER.CH8 ]( images/OUTER.PNG )  
+Outrunner_Outline.ch8  
+![ Outrunner_Outline.ch8 ]( images/Outrunner_Outline.png )  
 
-OUTRUN-1.CH8   
-![ OUTRUN-1.CH8 ]( images/OUTRUN-1.PNG )  
+Panda.ch8  
+![ Panda.ch8 ]( images/Panda.png )  
 
-OUTRUN-2.CH8   
-![ OUTRUN-2.CH8 ]( images/OUTRUN-2.PNG )  
+Parchment.ch8  
+![ Parchment.ch8 ]( images/Parchment.png )  
 
-PANDA.CH8   
-![ PANDA.CH8 ]( images/PANDA.PNG )  
+Phase_Shifter.ch8  
+![ Phase_Shifter.ch8 ]( images/Phase_Shifter.png )  
 
-PARCHM-1.CH8   
-![ PARCHM-1.CH8 ]( images/PARCHM-1.PNG )  
+Phase_Shifter_Solid.ch8  
+![ Phase_Shifter_Solid.ch8 ]( images/Phase_Shifter_Solid.png )  
 
-PHASE_-1.CH8   
-![ PHASE_-1.CH8 ]( images/PHASE_-1.PNG )  
+Pinhead.ch8  
+![ Pinhead.ch8 ]( images/Pinhead.png )  
 
-PHASE_-3.CH8   
-![ PHASE_-3.CH8 ]( images/PHASE_-3.PNG )  
+Pitstop.ch8  
+![ Pitstop.ch8 ]( images/Pitstop.png )  
 
-PINHEAD.CH8   
-![ PINHEAD.CH8 ]( images/PINHEAD.PNG )  
+Pixharmonix.ch8  
+![ Pixharmonix.ch8 ]( images/Pixharmonix.png )  
 
-PITSTOP.CH8   
-![ PITSTOP.CH8 ]( images/PITSTOP.PNG )  
+Pixie.ch8  
+![ Pixie.ch8 ]( images/Pixie.png )  
 
-PIXHAR-1.CH8   
-![ PIXHAR-1.CH8 ]( images/PIXHAR-1.PNG )  
+Pixie_Bell.ch8  
+![ Pixie_Bell.ch8 ]( images/Pixie_Bell.png )  
 
-PIXIE_-1.CH8   
-![ PIXIE_-1.CH8 ]( images/PIXIE_-1.PNG )  
+Pixie_Bell_Stretch.ch8  
+![ Pixie_Bell_Stretch.ch8 ]( images/Pixie_Bell_Stretch.png )  
 
-PIXIE_-2.CH8   
-![ PIXIE_-2.CH8 ]( images/PIXIE_-2.PNG )  
+Pixie_Bold.ch8  
+![ Pixie_Bold.ch8 ]( images/Pixie_Bold.png )  
 
-PIXIE_-3.CH8   
-![ PIXIE_-3.CH8 ]( images/PIXIE_-3.PNG )  
+Pixie_Digital.ch8  
+![ Pixie_Digital.ch8 ]( images/Pixie_Digital.png )  
 
-PIXIE_-5.CH8   
-![ PIXIE_-5.CH8 ]( images/PIXIE_-5.PNG )  
+Plato.ch8  
+![ Plato.ch8 ]( images/Plato.png )  
 
-PIXIE.CH8   
-![ PIXIE.CH8 ]( images/PIXIE.PNG )  
+Plotter.ch8  
+![ Plotter.ch8 ]( images/Plotter.png )  
 
-PLATO.CH8   
-![ PLATO.CH8 ]( images/PLATO.PNG )  
+Plotter_Bold.ch8  
+![ Plotter_Bold.ch8 ]( images/Plotter_Bold.png )  
 
-PLOTTE-1.CH8   
-![ PLOTTE-1.CH8 ]( images/PLOTTE-1.PNG )  
+Plotter_Condensed.ch8  
+![ Plotter_Condensed.ch8 ]( images/Plotter_Condensed.png )  
 
-PLOTTE-2.CH8   
-![ PLOTTE-2.CH8 ]( images/PLOTTE-2.PNG )  
+Polaris.ch8  
+![ Polaris.ch8 ]( images/Polaris.png )  
 
-PLOTTER.CH8   
-![ PLOTTER.CH8 ]( images/PLOTTER.PNG )  
+Precinct_0.ch8  
+![ Precinct_0.ch8 ]( images/Precinct_0.png )  
 
-POLARIS.CH8   
-![ POLARIS.CH8 ]( images/POLARIS.PNG )  
+Precinct_0_Bit.ch8  
+![ Precinct_0_Bit.ch8 ]( images/Precinct_0_Bit.png )  
 
-PRECIN-1.CH8   
-![ PRECIN-1.CH8 ]( images/PRECIN-1.PNG )  
+Precinct_0_Short.ch8  
+![ Precinct_0_Short.ch8 ]( images/Precinct_0_Short.png )  
 
-PRECIN-2.CH8   
-![ PRECIN-2.CH8 ]( images/PRECIN-2.PNG )  
+Precinct_0_Tiny.ch8  
+![ Precinct_0_Tiny.ch8 ]( images/Precinct_0_Tiny.png )  
 
-PRECIN-3.CH8   
-![ PRECIN-3.CH8 ]( images/PRECIN-3.PNG )  
+Precinct_180.ch8  
+![ Precinct_180.ch8 ]( images/Precinct_180.png )  
 
-PRECIN-4.CH8   
-![ PRECIN-4.CH8 ]( images/PRECIN-4.PNG )  
+Precinct_90.ch8  
+![ Precinct_90.ch8 ]( images/Precinct_90.png )  
 
-PRECIN-6.CH8   
-![ PRECIN-6.CH8 ]( images/PRECIN-6.PNG )  
+Prelude.ch8  
+![ Prelude.ch8 ]( images/Prelude.png )  
 
-PRECIN-7.CH8   
-![ PRECIN-7.CH8 ]( images/PRECIN-7.PNG )  
+Primary_Target.ch8  
+![ Primary_Target.ch8 ]( images/Primary_Target.png )  
 
-PRELUDE.CH8   
-![ PRELUDE.CH8 ]( images/PRELUDE.PNG )  
+Prince.ch8  
+![ Prince.ch8 ]( images/Prince.png )  
 
-PRIMAR-1.CH8   
-![ PRIMAR-1.CH8 ]( images/PRIMAR-1.PNG )  
+Prism.ch8  
+![ Prism.ch8 ]( images/Prism.png )  
 
-PRINCE.CH8   
-![ PRINCE.CH8 ]( images/PRINCE.PNG )  
+Prism_Simplified.ch8  
+![ Prism_Simplified.ch8 ]( images/Prism_Simplified.png )  
 
-PRISM_-1.CH8   
-![ PRISM_-1.CH8 ]( images/PRISM_-1.PNG )  
+Pristine.ch8  
+![ Pristine.ch8 ]( images/Pristine.png )  
 
-PRISM.CH8   
-![ PRISM.CH8 ]( images/PRISM.PNG )  
+Pristine_Bold.ch8  
+![ Pristine_Bold.ch8 ]( images/Pristine_Bold.png )  
 
-PRISTI-1.CH8   
-![ PRISTI-1.CH8 ]( images/PRISTI-1.PNG )  
+Pristine_Decay.ch8  
+![ Pristine_Decay.ch8 ]( images/Pristine_Decay.png )  
 
-PRISTI-3.CH8   
-![ PRISTI-3.CH8 ]( images/PRISTI-3.PNG )  
+Proforma.ch8  
+![ Proforma.ch8 ]( images/Proforma.png )  
 
-PRISTINE.CH8   
-![ PRISTINE.CH8 ]( images/PRISTINE.PNG )  
+Proforma_Mid_Numeric.ch8  
+![ Proforma_Mid_Numeric.ch8 ]( images/Proforma_Mid_Numeric.png )  
 
-PROFOR-1.CH8   
-![ PROFOR-1.CH8 ]( images/PROFOR-1.PNG )  
+Proforma_Small_Numeric.ch8  
+![ Proforma_Small_Numeric.ch8 ]( images/Proforma_Small_Numeric.png )  
 
-PROFOR-2.CH8   
-![ PROFOR-2.CH8 ]( images/PROFOR-2.PNG )  
+Protractor.ch8  
+![ Protractor.ch8 ]( images/Protractor.png )  
 
-PROFORMA.CH8   
-![ PROFORMA.CH8 ]( images/PROFORMA.PNG )  
+Punch.ch8  
+![ Punch.ch8 ]( images/Punch.png )  
 
-PROTRA-1.CH8   
-![ PROTRA-1.CH8 ]( images/PROTRA-1.PNG )  
+Quaked.ch8  
+![ Quaked.ch8 ]( images/Quaked.png )  
 
-PUNCH.CH8   
-![ PUNCH.CH8 ]( images/PUNCH.PNG )  
+Quantra.ch8  
+![ Quantra.ch8 ]( images/Quantra.png )  
 
-QUAKED.CH8   
-![ QUAKED.CH8 ]( images/QUAKED.PNG )  
+Quasar.ch8  
+![ Quasar.ch8 ]( images/Quasar.png )  
 
-QUANTRA.CH8   
-![ QUANTRA.CH8 ]( images/QUANTRA.PNG )  
+Quickshot.ch8  
+![ Quickshot.ch8 ]( images/Quickshot.png )  
 
-QUASAR.CH8   
-![ QUASAR.CH8 ]( images/QUASAR.PNG )  
+Ramscoop.ch8  
+![ Ramscoop.ch8 ]( images/Ramscoop.png )  
 
-QUICKS-1.CH8   
-![ QUICKS-1.CH8 ]( images/QUICKS-1.PNG )  
+Ramscoop_Angled.ch8  
+![ Ramscoop_Angled.ch8 ]( images/Ramscoop_Angled.png )  
 
-RAMSCO-1.CH8   
-![ RAMSCO-1.CH8 ]( images/RAMSCO-1.PNG )  
+Raptor.ch8  
+![ Raptor.ch8 ]( images/Raptor.png )  
 
-RAMSCOOP.CH8   
-![ RAMSCOOP.CH8 ]( images/RAMSCOOP.PNG )  
+Raptor_Bold.ch8  
+![ Raptor_Bold.ch8 ]( images/Raptor_Bold.png )  
 
-RAPTOR-1.CH8   
-![ RAPTOR-1.CH8 ]( images/RAPTOR-1.PNG )  
+Raven.ch8  
+![ Raven.ch8 ]( images/Raven.png )  
 
-RAPTOR.CH8   
-![ RAPTOR.CH8 ]( images/RAPTOR.PNG )  
+Raven_Bold.ch8  
+![ Raven_Bold.ch8 ]( images/Raven_Bold.png )  
 
-RAVEN_-1.CH8   
-![ RAVEN_-1.CH8 ]( images/RAVEN_-1.PNG )  
+Raven_SemiBold.ch8  
+![ Raven_SemiBold.ch8 ]( images/Raven_SemiBold.png )  
 
-RAVEN_-2.CH8   
-![ RAVEN_-2.CH8 ]( images/RAVEN_-2.PNG )  
+Razor.ch8  
+![ Razor.ch8 ]( images/Razor.png )  
 
-RAVEN.CH8   
-![ RAVEN.CH8 ]( images/RAVEN.PNG )  
+Razor_Rust.ch8  
+![ Razor_Rust.ch8 ]( images/Razor_Rust.png )  
 
-RAZOR_-1.CH8   
-![ RAZOR_-1.CH8 ]( images/RAZOR_-1.PNG )  
+Reactor.ch8  
+![ Reactor.ch8 ]( images/Reactor.png )  
 
-RAZOR.CH8   
-![ RAZOR.CH8 ]( images/RAZOR.PNG )  
+Reactor_Heavy.ch8  
+![ Reactor_Heavy.ch8 ]( images/Reactor_Heavy.png )  
 
-REACTO-1.CH8   
-![ REACTO-1.CH8 ]( images/REACTO-1.PNG )  
+Reactor_Heavy_Shine.ch8  
+![ Reactor_Heavy_Shine.ch8 ]( images/Reactor_Heavy_Shine.png )  
 
-REACTO-2.CH8   
-![ REACTO-2.CH8 ]( images/REACTO-2.PNG )  
+Reactor_Heavy_Stripe.ch8  
+![ Reactor_Heavy_Stripe.ch8 ]( images/Reactor_Heavy_Stripe.png )  
 
-REACTO-3.CH8   
-![ REACTO-3.CH8 ]( images/REACTO-3.PNG )  
+Reactor_Leak.ch8  
+![ Reactor_Leak.ch8 ]( images/Reactor_Leak.png )  
 
-REACTO-4.CH8   
-![ REACTO-4.CH8 ]( images/REACTO-4.PNG )  
+Reactor_Oblique.ch8  
+![ Reactor_Oblique.ch8 ]( images/Reactor_Oblique.png )  
 
-REACTO-5.CH8   
-![ REACTO-5.CH8 ]( images/REACTO-5.PNG )  
+Reactor_Serif.ch8  
+![ Reactor_Serif.ch8 ]( images/Reactor_Serif.png )  
 
-REACTO-6.CH8   
-![ REACTO-6.CH8 ]( images/REACTO-6.PNG )  
+Reactor_Zone.ch8  
+![ Reactor_Zone.ch8 ]( images/Reactor_Zone.png )  
 
-REACTO-7.CH8   
-![ REACTO-7.CH8 ]( images/REACTO-7.PNG )  
+Rebound_Open.ch8  
+![ Rebound_Open.ch8 ]( images/Rebound_Open.png )  
 
-REACTOR.CH8   
-![ REACTOR.CH8 ]( images/REACTOR.PNG )  
+Rebound_Sphere.ch8  
+![ Rebound_Sphere.ch8 ]( images/Rebound_Sphere.png )  
 
-REBOUN-1.CH8   
-![ REBOUN-1.CH8 ]( images/REBOUN-1.PNG )  
+Rebound_Wrap.ch8  
+![ Rebound_Wrap.ch8 ]( images/Rebound_Wrap.png )  
 
-REBOUN-2.CH8   
-![ REBOUN-2.CH8 ]( images/REBOUN-2.PNG )  
+Reflections.ch8  
+![ Reflections.ch8 ]( images/Reflections.png )  
 
-REBOUN-3.CH8   
-![ REBOUN-3.CH8 ]( images/REBOUN-3.PNG )  
+Reflections_Dark.ch8  
+![ Reflections_Dark.ch8 ]( images/Reflections_Dark.png )  
 
-REFLEC-1.CH8   
-![ REFLEC-1.CH8 ]( images/REFLEC-1.PNG )  
+Reflex.ch8  
+![ Reflex.ch8 ]( images/Reflex.png )  
 
-REFLEC-2.CH8   
-![ REFLEC-2.CH8 ]( images/REFLEC-2.PNG )  
+Revelation.ch8  
+![ Revelation.ch8 ]( images/Revelation.png )  
 
-REFLEX.CH8   
-![ REFLEX.CH8 ]( images/REFLEX.PNG )  
+Revelation_Bold.ch8  
+![ Revelation_Bold.ch8 ]( images/Revelation_Bold.png )  
 
-REVELA-1.CH8   
-![ REVELA-1.CH8 ]( images/REVELA-1.PNG )  
+Reward.ch8  
+![ Reward.ch8 ]( images/Reward.png )  
 
-REVELA-2.CH8   
-![ REVELA-2.CH8 ]( images/REVELA-2.PNG )  
+Reward_Short.ch8  
+![ Reward_Short.ch8 ]( images/Reward_Short.png )  
 
-REWARD-1.CH8   
-![ REWARD-1.CH8 ]( images/REWARD-1.PNG )  
+Reynolds.ch8  
+![ Reynolds.ch8 ]( images/Reynolds.png )  
 
-REWARD.CH8   
-![ REWARD.CH8 ]( images/REWARD.PNG )  
+Reynolds_Bold.ch8  
+![ Reynolds_Bold.ch8 ]( images/Reynolds_Bold.png )  
 
-REYNOL-1.CH8   
-![ REYNOL-1.CH8 ]( images/REYNOL-1.PNG )  
+Reynolds_SemiBold.ch8  
+![ Reynolds_SemiBold.ch8 ]( images/Reynolds_SemiBold.png )  
 
-REYNOL-2.CH8   
-![ REYNOL-2.CH8 ]( images/REYNOL-2.PNG )  
+Ricochet.ch8  
+![ Ricochet.ch8 ]( images/Ricochet.png )  
 
-REYNOLDS.CH8   
-![ REYNOLDS.CH8 ]( images/REYNOLDS.PNG )  
+Ricochet_Bold.ch8  
+![ Ricochet_Bold.ch8 ]( images/Ricochet_Bold.png )  
 
-RICOCH-1.CH8   
-![ RICOCH-1.CH8 ]( images/RICOCH-1.PNG )  
+Riverbank.ch8  
+![ Riverbank.ch8 ]( images/Riverbank.png )  
 
-RICOCHET.CH8   
-![ RICOCHET.CH8 ]( images/RICOCHET.PNG )  
+Riveter.ch8  
+![ Riveter.ch8 ]( images/Riveter.png )  
 
-RIVERB-1.CH8   
-![ RIVERB-1.CH8 ]( images/RIVERB-1.PNG )  
+Rosand.ch8  
+![ Rosand.ch8 ]( images/Rosand.png )  
 
-RIVETER.CH8   
-![ RIVETER.CH8 ]( images/RIVETER.PNG )  
+Runed.ch8  
+![ Runed.ch8 ]( images/Runed.png )  
 
-ROSAND.CH8   
-![ ROSAND.CH8 ]( images/ROSAND.PNG )  
+Scribe-AGD-5.ch8  
+![ Scribe-AGD-5.ch8 ]( images/Scribe-AGD-5.png )  
 
-RUNED.CH8   
-![ RUNED.CH8 ]( images/RUNED.PNG )  
+Scribe.ch8  
+![ Scribe.ch8 ]( images/Scribe.png )  
 
-SCRIB-10.CH8   
-![ SCRIB-10.CH8 ]( images/SCRIB-10.PNG )  
+Scribe_Bold.ch8  
+![ Scribe_Bold.ch8 ]( images/Scribe_Bold.png )  
 
-SCRIBE-1.CH8   
-![ SCRIBE-1.CH8 ]( images/SCRIBE-1.PNG )  
+Scribe_Condensed.ch8  
+![ Scribe_Condensed.ch8 ]( images/Scribe_Condensed.png )  
 
-SCRIBE-2.CH8   
-![ SCRIBE-2.CH8 ]( images/SCRIBE-2.PNG )  
+Scribe_Condensed_Lowercase.ch8  
+![ Scribe_Condensed_Lowercase.ch8 ]( images/Scribe_Condensed_Lowercase.png )  
 
-SCRIBE-3.CH8   
-![ SCRIBE-3.CH8 ]( images/SCRIBE-3.PNG )  
+Scribe_Condensed_Smaller_Lowercase.ch8  
+![ Scribe_Condensed_Smaller_Lowercase.ch8 ]( images/Scribe_Condensed_Smaller_Lowercase.png )  
 
-SCRIBE-4.CH8   
-![ SCRIBE-4.CH8 ]( images/SCRIBE-4.PNG )  
+Scribe_Eire.ch8  
+![ Scribe_Eire.ch8 ]( images/Scribe_Eire.png )  
 
-SCRIBE-5.CH8   
-![ SCRIBE-5.CH8 ]( images/SCRIBE-5.PNG )  
+Scribe_Hylean.ch8  
+![ Scribe_Hylean.ch8 ]( images/Scribe_Hylean.png )  
 
-SCRIBE-6.CH8   
-![ SCRIBE-6.CH8 ]( images/SCRIBE-6.PNG )  
+Scribe_Smaller_Lowercase.ch8  
+![ Scribe_Smaller_Lowercase.ch8 ]( images/Scribe_Smaller_Lowercase.png )  
 
-SCRIBE-8.CH8   
-![ SCRIBE-8.CH8 ]( images/SCRIBE-8.PNG )  
+Scribe_Spaced.ch8  
+![ Scribe_Spaced.ch8 ]( images/Scribe_Spaced.png )  
 
-SCRIBE-9.CH8   
-![ SCRIBE-9.CH8 ]( images/SCRIBE-9.PNG )  
+Sector_One.ch8  
+![ Sector_One.ch8 ]( images/Sector_One.png )  
 
-SCRIBE.CH8   
-![ SCRIBE.CH8 ]( images/SCRIBE.PNG )  
+Sector_Two.ch8  
+![ Sector_Two.ch8 ]( images/Sector_Two.png )  
 
-SECTOR-1.CH8   
-![ SECTOR-1.CH8 ]( images/SECTOR-1.PNG )  
+Sector_Zero.ch8  
+![ Sector_Zero.ch8 ]( images/Sector_Zero.png )  
 
-SECTOR-2.CH8   
-![ SECTOR-2.CH8 ]( images/SECTOR-2.PNG )  
+Security_Concepts.ch8  
+![ Security_Concepts.ch8 ]( images/Security_Concepts.png )  
 
-SECTOR-4.CH8   
-![ SECTOR-4.CH8 ]( images/SECTOR-4.PNG )  
+Segment8.ch8  
+![ Segment8.ch8 ]( images/Segment8.png )  
 
-SECURI-1.CH8   
-![ SECURI-1.CH8 ]( images/SECURI-1.PNG )  
+Shakedown.ch8  
+![ Shakedown.ch8 ]( images/Shakedown.png )  
 
-SEGMENT8.CH8   
-![ SEGMENT8.CH8 ]( images/SEGMENT8.PNG )  
+Shinobi_Extended.ch8  
+![ Shinobi_Extended.ch8 ]( images/Shinobi_Extended.png )  
 
-SHAKED-1.CH8   
-![ SHAKED-1.CH8 ]( images/SHAKED-1.PNG )  
+Shuriken.ch8  
+![ Shuriken.ch8 ]( images/Shuriken.png )  
 
-SHINOB-1.CH8   
-![ SHINOB-1.CH8 ]( images/SHINOB-1.PNG )  
+Sketcher.ch8  
+![ Sketcher.ch8 ]( images/Sketcher.png )  
 
-SHURIKEN.CH8   
-![ SHURIKEN.CH8 ]( images/SHURIKEN.PNG )  
+Sketcher_Bold.ch8  
+![ Sketcher_Bold.ch8 ]( images/Sketcher_Bold.png )  
 
-SKETCH-1.CH8   
-![ SKETCH-1.CH8 ]( images/SKETCH-1.PNG )  
+Skid_Row.ch8  
+![ Skid_Row.ch8 ]( images/Skid_Row.png )  
 
-SKETCHER.CH8   
-![ SKETCHER.CH8 ]( images/SKETCHER.PNG )  
+Sorcery.ch8  
+![ Sorcery.ch8 ]( images/Sorcery.png )  
 
-SKID_ROW.CH8   
-![ SKID_ROW.CH8 ]( images/SKID_ROW.PNG )  
+Space_Opera.ch8  
+![ Space_Opera.ch8 ]( images/Space_Opera.png )  
 
-SORCERY.CH8   
-![ SORCERY.CH8 ]( images/SORCERY.PNG )  
+Specmatic.ch8  
+![ Specmatic.ch8 ]( images/Specmatic.png )  
 
-SPACE_-1.CH8   
-![ SPACE_-1.CH8 ]( images/SPACE_-1.PNG )  
+Speedway.ch8  
+![ Speedway.ch8 ]( images/Speedway.png )  
 
-SPECMA-1.CH8   
-![ SPECMA-1.CH8 ]( images/SPECMA-1.PNG )  
+Speedway_Bold.ch8  
+![ Speedway_Bold.ch8 ]( images/Speedway_Bold.png )  
 
-SPEEDW-1.CH8   
-![ SPEEDW-1.CH8 ]( images/SPEEDW-1.PNG )  
+Standstill.ch8  
+![ Standstill.ch8 ]( images/Standstill.png )  
 
-SPEEDWAY.CH8   
-![ SPEEDWAY.CH8 ]( images/SPEEDWAY.PNG )  
+Star_Ranger.ch8  
+![ Star_Ranger.ch8 ]( images/Star_Ranger.png )  
 
-STANDS-1.CH8   
-![ STANDS-1.CH8 ]( images/STANDS-1.PNG )  
+Star_Ranger_Oblique.ch8  
+![ Star_Ranger_Oblique.ch8 ]( images/Star_Ranger_Oblique.png )  
 
-STAR_R-1.CH8   
-![ STAR_R-1.CH8 ]( images/STAR_R-1.PNG )  
+Stars.ch8  
+![ Stars.ch8 ]( images/Stars.png )  
 
-STAR_R-2.CH8   
-![ STAR_R-2.CH8 ]( images/STAR_R-2.PNG )  
+Stars_Square.ch8  
+![ Stars_Square.ch8 ]( images/Stars_Square.png )  
 
-STARS_-1.CH8   
-![ STARS_-1.CH8 ]( images/STARS_-1.PNG )  
+Stepper.ch8  
+![ Stepper.ch8 ]( images/Stepper.png )  
 
-STARS.CH8   
-![ STARS.CH8 ]( images/STARS.PNG )  
+Stepper_Bold.ch8  
+![ Stepper_Bold.ch8 ]( images/Stepper_Bold.png )  
 
-STEPPE-1.CH8   
-![ STEPPE-1.CH8 ]( images/STEPPE-1.PNG )  
+Stepper_Cut.ch8  
+![ Stepper_Cut.ch8 ]( images/Stepper_Cut.png )  
 
-STEPPE-2.CH8   
-![ STEPPE-2.CH8 ]( images/STEPPE-2.PNG )  
+Streetdoc.ch8  
+![ Streetdoc.ch8 ]( images/Streetdoc.png )  
 
-STEPPER.CH8   
-![ STEPPER.CH8 ]( images/STEPPER.PNG )  
+Striker.ch8  
+![ Striker.ch8 ]( images/Striker.png )  
 
-STREET-1.CH8   
-![ STREET-1.CH8 ]( images/STREET-1.PNG )  
+Striker_Bold.ch8  
+![ Striker_Bold.ch8 ]( images/Striker_Bold.png )  
 
-STRIKE-1.CH8   
-![ STRIKE-1.CH8 ]( images/STRIKE-1.PNG )  
+Striker_SemiBold.ch8  
+![ Striker_SemiBold.ch8 ]( images/Striker_SemiBold.png )  
 
-STRIKE-2.CH8   
-![ STRIKE-2.CH8 ]( images/STRIKE-2.PNG )  
+Submerged.ch8  
+![ Submerged.ch8 ]( images/Submerged.png )  
 
-STRIKER.CH8   
-![ STRIKER.CH8 ]( images/STRIKER.PNG )  
+Submerged_Bold.ch8  
+![ Submerged_Bold.ch8 ]( images/Submerged_Bold.png )  
 
-SUBMER-1.CH8   
-![ SUBMER-1.CH8 ]( images/SUBMER-1.PNG )  
+Syncwave.ch8  
+![ Syncwave.ch8 ]( images/Syncwave.png )  
 
-SUBMER-2.CH8   
-![ SUBMER-2.CH8 ]( images/SUBMER-2.PNG )  
+Syncwave_Bubble.ch8  
+![ Syncwave_Bubble.ch8 ]( images/Syncwave_Bubble.png )  
 
-SYNCWA-1.CH8   
-![ SYNCWA-1.CH8 ]( images/SYNCWA-1.PNG )  
+Tenant.ch8  
+![ Tenant.ch8 ]( images/Tenant.png )  
 
-SYNCWAVE.CH8   
-![ SYNCWAVE.CH8 ]( images/SYNCWAVE.PNG )  
+Tenant_Bold.ch8  
+![ Tenant_Bold.ch8 ]( images/Tenant_Bold.png )  
 
-TENANT-1.CH8   
-![ TENANT-1.CH8 ]( images/TENANT-1.PNG )  
+Tenant_Digital.ch8  
+![ Tenant_Digital.ch8 ]( images/Tenant_Digital.png )  
 
-TENANT-2.CH8   
-![ TENANT-2.CH8 ]( images/TENANT-2.PNG )  
+Tentacle.ch8  
+![ Tentacle.ch8 ]( images/Tentacle.png )  
 
-TENANT.CH8   
-![ TENANT.CH8 ]( images/TENANT.PNG )  
+Tentacle_Bold.ch8  
+![ Tentacle_Bold.ch8 ]( images/Tentacle_Bold.png )  
 
-TENTAC-1.CH8   
-![ TENTAC-1.CH8 ]( images/TENTAC-1.PNG )  
+Tipped.ch8  
+![ Tipped.ch8 ]( images/Tipped.png )  
 
-TENTACLE.CH8   
-![ TENTACLE.CH8 ]( images/TENTACLE.PNG )  
+Torment.ch8  
+![ Torment.ch8 ]( images/Torment.png )  
 
-TIPPED.CH8   
-![ TIPPED.CH8 ]( images/TIPPED.PNG )  
+Torque.ch8  
+![ Torque.ch8 ]( images/Torque.png )  
 
-TORMENT.CH8   
-![ TORMENT.CH8 ]( images/TORMENT.PNG )  
+Touch_Down.ch8  
+![ Touch_Down.ch8 ]( images/Touch_Down.png )  
 
-TORQUE.CH8   
-![ TORQUE.CH8 ]( images/TORQUE.PNG )  
+Touch_Up.ch8  
+![ Touch_Up.ch8 ]( images/Touch_Up.png )  
 
-TOUCH_-1.CH8   
-![ TOUCH_-1.CH8 ]( images/TOUCH_-1.PNG )  
+Track40_Lower.ch8  
+![ Track40_Lower.ch8 ]( images/Track40_Lower.png )  
 
-TOUCH_UP.CH8   
-![ TOUCH_UP.CH8 ]( images/TOUCH_UP.PNG )  
+Track40_Upper.ch8  
+![ Track40_Upper.ch8 ]( images/Track40_Upper.png )  
 
-TRACK4-1.CH8   
-![ TRACK4-1.CH8 ]( images/TRACK4-1.PNG )  
+Treatise.ch8  
+![ Treatise.ch8 ]( images/Treatise.png )  
 
-TRACK4-2.CH8   
-![ TRACK4-2.CH8 ]( images/TRACK4-2.PNG )  
+Trouble.ch8  
+![ Trouble.ch8 ]( images/Trouble.png )  
 
-TREATISE.CH8   
-![ TREATISE.CH8 ]( images/TREATISE.PNG )  
+Truffle_Shuffle.ch8  
+![ Truffle_Shuffle.ch8 ]( images/Truffle_Shuffle.png )  
 
-TROUBLE.CH8   
-![ TROUBLE.CH8 ]( images/TROUBLE.PNG )  
+Tuner.ch8  
+![ Tuner.ch8 ]( images/Tuner.png )  
 
-TRUFFL-1.CH8   
-![ TRUFFL-1.CH8 ]( images/TRUFFL-1.PNG )  
+Tycho.ch8  
+![ Tycho.ch8 ]( images/Tycho.png )  
 
-TUNER.CH8   
-![ TUNER.CH8 ]( images/TUNER.PNG )  
+Ultimatum.ch8  
+![ Ultimatum.ch8 ]( images/Ultimatum.png )  
 
-TYCHO.CH8   
-![ TYCHO.CH8 ]( images/TYCHO.PNG )  
+Uncial.ch8  
+![ Uncial.ch8 ]( images/Uncial.png )  
 
-ULTIMA-1.CH8   
-![ ULTIMA-1.CH8 ]( images/ULTIMA-1.PNG )  
+Undead.ch8  
+![ Undead.ch8 ]( images/Undead.png )  
 
-UNCIAL.CH8   
-![ UNCIAL.CH8 ]( images/UNCIAL.PNG )  
+Valley.ch8  
+![ Valley.ch8 ]( images/Valley.png )  
 
-UNDEAD.CH8   
-![ UNDEAD.CH8 ]( images/UNDEAD.PNG )  
+Valour.ch8  
+![ Valour.ch8 ]( images/Valour.png )  
 
-VALLEY.CH8   
-![ VALLEY.CH8 ]( images/VALLEY.PNG )  
+Valour_Sharp.ch8  
+![ Valour_Sharp.ch8 ]( images/Valour_Sharp.png )  
 
-VALOUR-1.CH8   
-![ VALOUR-1.CH8 ]( images/VALOUR-1.PNG )  
+Velocity.ch8  
+![ Velocity.ch8 ]( images/Velocity.png )  
 
-VALOUR.CH8   
-![ VALOUR.CH8 ]( images/VALOUR.PNG )  
+Vertigo.ch8  
+![ Vertigo.ch8 ]( images/Vertigo.png )  
 
-VELOCITY.CH8   
-![ VELOCITY.CH8 ]( images/VELOCITY.PNG )  
+Vindicated.ch8  
+![ Vindicated.ch8 ]( images/Vindicated.png )  
 
-VERTIGO.CH8   
-![ VERTIGO.CH8 ]( images/VERTIGO.PNG )  
+Watchface.ch8  
+![ Watchface.ch8 ]( images/Watchface.png )  
 
-VINDIC-1.CH8   
-![ VINDIC-1.CH8 ]( images/VINDIC-1.PNG )  
+Watchface_Bold.ch8  
+![ Watchface_Bold.ch8 ]( images/Watchface_Bold.png )  
 
-WATCHF-1.CH8   
-![ WATCHF-1.CH8 ]( images/WATCHF-1.PNG )  
+Waterlily.ch8  
+![ Waterlily.ch8 ]( images/Waterlily.png )  
 
-WATCHF-2.CH8   
-![ WATCHF-2.CH8 ]( images/WATCHF-2.PNG )  
+Widget.ch8  
+![ Widget.ch8 ]( images/Widget.png )  
 
-WATERL-1.CH8   
-![ WATERL-1.CH8 ]( images/WATERL-1.PNG )  
+Widget_Bold.ch8  
+![ Widget_Bold.ch8 ]( images/Widget_Bold.png )  
 
-WIDGET-1.CH8   
-![ WIDGET-1.CH8 ]( images/WIDGET-1.PNG )  
+Winterforge.ch8  
+![ Winterforge.ch8 ]( images/Winterforge.png )  
 
-WIDGET.CH8   
-![ WIDGET.CH8 ]( images/WIDGET.PNG )  
+Xcelerant.ch8  
+![ Xcelerant.ch8 ]( images/Xcelerant.png )  
 
-WINTER-1.CH8   
-![ WINTER-1.CH8 ]( images/WINTER-1.PNG )  
+Xcerpt.ch8  
+![ Xcerpt.ch8 ]( images/Xcerpt.png )  
 
-XCELER-1.CH8   
-![ XCELER-1.CH8 ]( images/XCELER-1.PNG )  
+Yaroze.ch8  
+![ Yaroze.ch8 ]( images/Yaroze.png )  
 
-XCERPT.CH8   
-![ XCERPT.CH8 ]( images/XCERPT.PNG )  
+Yaroze_SemiBold.ch8  
+![ Yaroze_SemiBold.ch8 ]( images/Yaroze_SemiBold.png )  
 
-YAROZE-1.CH8   
-![ YAROZE-1.CH8 ]( images/YAROZE-1.PNG )  
+You_Squared.ch8  
+![ You_Squared.ch8 ]( images/You_Squared.png )  
 
-YAROZE.CH8   
-![ YAROZE.CH8 ]( images/YAROZE.PNG )  
+You_Squared_Bold.ch8  
+![ You_Squared_Bold.ch8 ]( images/You_Squared_Bold.png )  
 
-YOU_SQ-1.CH8   
-![ YOU_SQ-1.CH8 ]( images/YOU_SQ-1.PNG )  
+You_Squared_Wide.ch8  
+![ You_Squared_Wide.ch8 ]( images/You_Squared_Wide.png )  
 
-YOU_SQ-2.CH8   
-![ YOU_SQ-2.CH8 ]( images/YOU_SQ-2.PNG )  
+ZX_Baveuse.ch8  
+![ ZX_Baveuse.ch8 ]( images/ZX_Baveuse.png )  
 
-YOU_SQ-3.CH8   
-![ YOU_SQ-3.CH8 ]( images/YOU_SQ-3.PNG )  
+ZX_Benguiat.ch8  
+![ ZX_Benguiat.ch8 ]( images/ZX_Benguiat.png )  
 
-ZX_BAV-1.CH8   
-![ ZX_BAV-1.CH8 ]( images/ZX_BAV-1.PNG )  
+ZX_Benguiat_Bold.ch8  
+![ ZX_Benguiat_Bold.ch8 ]( images/ZX_Benguiat_Bold.png )  
 
-ZX_BEN-1.CH8   
-![ ZX_BEN-1.CH8 ]( images/ZX_BEN-1.PNG )  
+ZX_Chicago.ch8  
+![ ZX_Chicago.ch8 ]( images/ZX_Chicago.png )  
 
-ZX_BEN-2.CH8   
-![ ZX_BEN-2.CH8 ]( images/ZX_BEN-2.PNG )  
+ZX_Chicago_Pod.ch8  
+![ ZX_Chicago_Pod.ch8 ]( images/ZX_Chicago_Pod.png )  
 
-ZX_CHI-1.CH8   
-![ ZX_CHI-1.CH8 ]( images/ZX_CHI-1.PNG )  
+ZX_Chicago_Twiggy.ch8  
+![ ZX_Chicago_Twiggy.ch8 ]( images/ZX_Chicago_Twiggy.png )  
 
-ZX_CHI-2.CH8   
-![ ZX_CHI-2.CH8 ]( images/ZX_CHI-2.PNG )  
+ZX_Courier.ch8  
+![ ZX_Courier.ch8 ]( images/ZX_Courier.png )  
 
-ZX_CHI-4.CH8   
-![ ZX_CHI-4.CH8 ]( images/ZX_CHI-4.PNG )  
+ZX_Courier_Bold.ch8  
+![ ZX_Courier_Bold.ch8 ]( images/ZX_Courier_Bold.png )  
 
-ZX_COU-1.CH8   
-![ ZX_COU-1.CH8 ]( images/ZX_COU-1.PNG )  
+ZX_Eurostile.ch8  
+![ ZX_Eurostile.ch8 ]( images/ZX_Eurostile.png )  
 
-ZX_COU-2.CH8   
-![ ZX_COU-2.CH8 ]( images/ZX_COU-2.PNG )  
+ZX_Eurostile_Wider.ch8  
+![ ZX_Eurostile_Wider.ch8 ]( images/ZX_Eurostile_Wider.png )  
 
-ZX_EUR-1.CH8   
-![ ZX_EUR-1.CH8 ]( images/ZX_EUR-1.PNG )  
+ZX_Extendomatic.ch8  
+![ ZX_Extendomatic.ch8 ]( images/ZX_Extendomatic.png )  
 
-ZX_EUR-2.CH8   
-![ ZX_EUR-2.CH8 ]( images/ZX_EUR-2.PNG )  
+ZX_Maverick.ch8  
+![ ZX_Maverick.ch8 ]( images/ZX_Maverick.png )  
 
-ZX_EXT-1.CH8   
-![ ZX_EXT-1.CH8 ]( images/ZX_EXT-1.PNG )  
+ZX_Megascope.ch8  
+![ ZX_Megascope.ch8 ]( images/ZX_Megascope.png )  
 
-ZX_MAV-1.CH8   
-![ ZX_MAV-1.CH8 ]( images/ZX_MAV-1.PNG )  
+ZX_OCR-A.ch8  
+![ ZX_OCR-A.ch8 ]( images/ZX_OCR-A.png )  
 
-ZX_MEG-1.CH8   
-![ ZX_MEG-1.CH8 ]( images/ZX_MEG-1.PNG )  
+ZX_OCR-B-Pro5.ch8  
+![ ZX_OCR-B-Pro5.ch8 ]( images/ZX_OCR-B-Pro5.png )  
 
-ZX_OCR-1.CH8   
-![ ZX_OCR-1.CH8 ]( images/ZX_OCR-1.PNG )  
+ZX_OCR-B.ch8  
+![ ZX_OCR-B.ch8 ]( images/ZX_OCR-B.png )  
 
-ZX_PAL-1.CH8   
-![ ZX_PAL-1.CH8 ]( images/ZX_PAL-1.PNG )  
+ZX_Palm.ch8  
+![ ZX_Palm.ch8 ]( images/ZX_Palm.png )  
 
-ZX_PALM.CH8   
-![ ZX_PALM.CH8 ]( images/ZX_PALM.PNG )  
+ZX_Palm_Bold.ch8  
+![ ZX_Palm_Bold.ch8 ]( images/ZX_Palm_Bold.png )  
 
-ZX_PEI-1.CH8   
-![ ZX_PEI-1.CH8 ]( images/ZX_PEI-1.PNG )  
+ZX_Peignot.ch8  
+![ ZX_Peignot.ch8 ]( images/ZX_Peignot.png )  
 
-ZX_RAM-1.CH8   
-![ ZX_RAM-1.CH8 ]( images/ZX_RAM-1.PNG )  
+ZX_Ramona.ch8  
+![ ZX_Ramona.ch8 ]( images/ZX_Ramona.png )  
 
-ZX_RAM-3.CH8   
-![ ZX_RAM-3.CH8 ]( images/ZX_RAM-3.PNG )  
+ZX_Ramona_Bold.ch8  
+![ ZX_Ramona_Bold.ch8 ]( images/ZX_Ramona_Bold.png )  
 
-ZX_RAM-4.CH8   
-![ ZX_RAM-4.CH8 ]( images/ZX_RAM-4.PNG )  
+ZX_Ramona_Closer.ch8  
+![ ZX_Ramona_Closer.ch8 ]( images/ZX_Ramona_Closer.png )  
 
-ZX_RUS-1.CH8   
-![ ZX_RUS-1.CH8 ]( images/ZX_RUS-1.PNG )  
+ZX_Rustproof.ch8  
+![ ZX_Rustproof.ch8 ]( images/ZX_Rustproof.png )  
 
-ZX_SIE-1.CH8   
-![ ZX_SIE-1.CH8 ]( images/ZX_SIE-1.PNG )  
+ZX_Sierra_Quest.ch8  
+![ ZX_Sierra_Quest.ch8 ]( images/ZX_Sierra_Quest.png )  
 
-ZX_SYS-1.CH8   
-![ ZX_SYS-1.CH8 ]( images/ZX_SYS-1.PNG )  
+ZX_System_X3.ch8  
+![ ZX_System_X3.ch8 ]( images/ZX_System_X3.png )  
 
-ZX_TIMES.CH8   
-![ ZX_TIMES.CH8 ]( images/ZX_TIMES.PNG )  
+ZX_Times.ch8  
+![ ZX_Times.ch8 ]( images/ZX_Times.png )  
 
-ZX_VEN-1.CH8   
-![ ZX_VEN-1.CH8 ]( images/ZX_VEN-1.PNG )  
+ZX_Venice.ch8  
+![ ZX_Venice.ch8 ]( images/ZX_Venice.png )  
 
