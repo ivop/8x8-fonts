@@ -1,11 +1,11 @@
 ZX80, ZX81 and ZX82 ROM font.  
 
-ZX80.CH8   
-![ ZX80.CH8 ]( ZX80.PNG )  
+zx80.ch8   
+![ zx80.ch8 ]( zx80.png )  
 
-ZX81.CH8   
-![ ZX81.CH8 ]( ZX81.PNG )  
+zx81.ch8   
+![ zx81.ch8 ]( zx81.png )  
 
-ZX82.CH8   
-![ ZX82.CH8 ]( ZX82.PNG )  
+zx82.ch8   
+![ zx82.ch8 ]( zx82.png )  
 
