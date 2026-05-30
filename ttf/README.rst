@@ -18,7 +18,7 @@ Install system dependencies (e.g., on a Debian system, use `apt`):
 
 ::
 
-    apt install python3-fonttools python3-hatchling python3-yaml
+    apt install python3-fonttools python3-yaml
 
 Install the repository:
 
