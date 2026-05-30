@@ -59,8 +59,8 @@ If you chose to install from the source repository directly, the string
 of `make`, for example:
 
 ::
-    make retrofont='python -m retrofont.retrofont'
 
+    make retrofont='python -m retrofont.retrofont'
 
 .. _Retrofont: https://retrofont.readthedocs.io
 .. _instructions: https://retrofont.readthedocs.io/en/latest/install.html
