@@ -10,3 +10,5 @@
 * oric - Oric fonts. 96 or 128 characters.
 * pc - IBM PC and compatibles CGA/MGA/EGA/VGA ROM fonts (only 8x8). 256 characters.
 * zx - ZX Spectrum ROM fonts, zx-origins, and other fonts. 64 or 96 characters.
+
+The [ttf](ttf) subdirectory contains a Makefile to batch-convert most of these fonts to TrueType with the help of [retrofont](https://github.com/jfjlaros/retrofont).
